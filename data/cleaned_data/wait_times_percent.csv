@@ -1,0 +1,904 @@
+vector,geo,dguid,gender,age_group,indicators,coordinate,value
+v1793295318,Canada (excluding territories),"",Both genders,"Total, 18 years and over","Total, wait time - medical specialist",1.1.1.1.4,100.0
+v1793295325,Canada (excluding territories),"",Both genders,"Total, 18 years and over","Wait time, less than 3 months",1.1.1.2.4,64.2
+v1793295332,Canada (excluding territories),"",Both genders,"Total, 18 years and over","Wait time, 3 months to less than 6 months",1.1.1.3.4,17.6
+v1793295339,Canada (excluding territories),"",Both genders,"Total, 18 years and over","Wait time, 6 months or more",1.1.1.4.4,18.2
+v1793295346,Canada (excluding territories),"",Both genders,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,1.1.1.5.4,49.4
+v1793295353,Canada (excluding territories),"",Both genders,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,1.1.1.6.4,31.0
+v1793295360,Canada (excluding territories),"",Both genders,"Total, 18 years and over",Life affected by wait time,1.1.1.7.4,63.6
+v1793295367,Canada (excluding territories),"",Both genders,18 to 44 years,"Total, wait time - medical specialist",1.1.2.1.4,100.0
+v1793295374,Canada (excluding territories),"",Both genders,18 to 44 years,"Wait time, less than 3 months",1.1.2.2.4,61.9
+v1793295381,Canada (excluding territories),"",Both genders,18 to 44 years,"Wait time, 3 months to less than 6 months",1.1.2.3.4,19.2
+v1793295388,Canada (excluding territories),"",Both genders,18 to 44 years,"Wait time, 6 months or more",1.1.2.4.4,18.9
+v1793295395,Canada (excluding territories),"",Both genders,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,1.1.2.5.4,42.7
+v1793295402,Canada (excluding territories),"",Both genders,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,1.1.2.6.4,37.9
+v1793295409,Canada (excluding territories),"",Both genders,18 to 44 years,Life affected by wait time,1.1.2.7.4,67.1
+v1793295416,Canada (excluding territories),"",Both genders,45 to 64 years,"Total, wait time - medical specialist",1.1.3.1.4,100.0
+v1793295423,Canada (excluding territories),"",Both genders,45 to 64 years,"Wait time, less than 3 months",1.1.3.2.4,62.8
+v1793295430,Canada (excluding territories),"",Both genders,45 to 64 years,"Wait time, 3 months to less than 6 months",1.1.3.3.4,16.7
+v1793295437,Canada (excluding territories),"",Both genders,45 to 64 years,"Wait time, 6 months or more",1.1.3.4.4,20.5
+v1793295444,Canada (excluding territories),"",Both genders,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,1.1.3.5.4,47.9
+v1793295451,Canada (excluding territories),"",Both genders,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,1.1.3.6.4,31.5
+v1793295458,Canada (excluding territories),"",Both genders,45 to 64 years,Life affected by wait time,1.1.3.7.4,66.4
+v1793295465,Canada (excluding territories),"",Both genders,65 years and over,"Total, wait time - medical specialist",1.1.4.1.4,100.0
+v1793295472,Canada (excluding territories),"",Both genders,65 years and over,"Wait time, less than 3 months",1.1.4.2.4,68.8
+v1793295479,Canada (excluding territories),"",Both genders,65 years and over,"Wait time, 3 months to less than 6 months",1.1.4.3.4,16.4
+v1793295486,Canada (excluding territories),"",Both genders,65 years and over,"Wait time, 6 months or more",1.1.4.4.4,14.8
+v1793295493,Canada (excluding territories),"",Both genders,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,1.1.4.5.4,60.0
+v1793295500,Canada (excluding territories),"",Both genders,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,1.1.4.6.4,21.1
+v1793295507,Canada (excluding territories),"",Both genders,65 years and over,Life affected by wait time,1.1.4.7.4,55.9
+v1793295514,Canada (excluding territories),"",Men+,"Total, 18 years and over","Total, wait time - medical specialist",1.2.1.1.4,100.0
+v1793295521,Canada (excluding territories),"",Men+,"Total, 18 years and over","Wait time, less than 3 months",1.2.1.2.4,66.4
+v1793295528,Canada (excluding territories),"",Men+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",1.2.1.3.4,17.9
+v1793295535,Canada (excluding territories),"",Men+,"Total, 18 years and over","Wait time, 6 months or more",1.2.1.4.4,15.7
+v1793295542,Canada (excluding territories),"",Men+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,1.2.1.5.4,50.0
+v1793295549,Canada (excluding territories),"",Men+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,1.2.1.6.4,31.1
+v1793295556,Canada (excluding territories),"",Men+,"Total, 18 years and over",Life affected by wait time,1.2.1.7.4,63.0
+v1793295563,Canada (excluding territories),"",Men+,18 to 44 years,"Total, wait time - medical specialist",1.2.2.1.4,100.0
+v1793295570,Canada (excluding territories),"",Men+,18 to 44 years,"Wait time, less than 3 months",1.2.2.2.4,61.8
+v1793295577,Canada (excluding territories),"",Men+,18 to 44 years,"Wait time, 3 months to less than 6 months",1.2.2.3.4,21.5
+v1793295584,Canada (excluding territories),"",Men+,18 to 44 years,"Wait time, 6 months or more",1.2.2.4.4,16.8
+v1793295591,Canada (excluding territories),"",Men+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,1.2.2.5.4,39.9
+v1793295598,Canada (excluding territories),"",Men+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,1.2.2.6.4,41.2
+v1793295605,Canada (excluding territories),"",Men+,18 to 44 years,Life affected by wait time,1.2.2.7.4,68.8
+v1793295612,Canada (excluding territories),"",Men+,45 to 64 years,"Total, wait time - medical specialist",1.2.3.1.4,100.0
+v1793295619,Canada (excluding territories),"",Men+,45 to 64 years,"Wait time, less than 3 months",1.2.3.2.4,67.0
+v1793295626,Canada (excluding territories),"",Men+,45 to 64 years,"Wait time, 3 months to less than 6 months",1.2.3.3.4,15.7
+v1793295633,Canada (excluding territories),"",Men+,45 to 64 years,"Wait time, 6 months or more",1.2.3.4.4,17.3
+v1793295640,Canada (excluding territories),"",Men+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,1.2.3.5.4,50.6
+v1793295647,Canada (excluding territories),"",Men+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,1.2.3.6.4,29.4
+v1793295654,Canada (excluding territories),"",Men+,45 to 64 years,Life affected by wait time,1.2.3.7.4,64.1
+v1793295661,Canada (excluding territories),"",Men+,65 years and over,"Total, wait time - medical specialist",1.2.4.1.4,100.0
+v1793295668,Canada (excluding territories),"",Men+,65 years and over,"Wait time, less than 3 months",1.2.4.2.4,71.4
+v1793295675,Canada (excluding territories),"",Men+,65 years and over,"Wait time, 3 months to less than 6 months",1.2.4.3.4,15.9
+v1793295682,Canada (excluding territories),"",Men+,65 years and over,"Wait time, 6 months or more",1.2.4.4.4,12.7
+v1793295689,Canada (excluding territories),"",Men+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,1.2.4.5.4,61.2
+v1793295696,Canada (excluding territories),"",Men+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,1.2.4.6.4,21.0
+v1793295703,Canada (excluding territories),"",Men+,65 years and over,Life affected by wait time,1.2.4.7.4,55.1
+v1793295710,Canada (excluding territories),"",Women+,"Total, 18 years and over","Total, wait time - medical specialist",1.3.1.1.4,100.0
+v1793295717,Canada (excluding territories),"",Women+,"Total, 18 years and over","Wait time, less than 3 months",1.3.1.2.4,62.2
+v1793295724,Canada (excluding territories),"",Women+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",1.3.1.3.4,17.4
+v1793295731,Canada (excluding territories),"",Women+,"Total, 18 years and over","Wait time, 6 months or more",1.3.1.4.4,20.4
+v1793295738,Canada (excluding territories),"",Women+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,1.3.1.5.4,48.9
+v1793295745,Canada (excluding territories),"",Women+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,1.3.1.6.4,30.9
+v1793295752,Canada (excluding territories),"",Women+,"Total, 18 years and over",Life affected by wait time,1.3.1.7.4,64.2
+v1793295759,Canada (excluding territories),"",Women+,18 to 44 years,"Total, wait time - medical specialist",1.3.2.1.4,100.0
+v1793295766,Canada (excluding territories),"",Women+,18 to 44 years,"Wait time, less than 3 months",1.3.2.2.4,62.0
+v1793295773,Canada (excluding territories),"",Women+,18 to 44 years,"Wait time, 3 months to less than 6 months",1.3.2.3.4,17.5
+v1793295780,Canada (excluding territories),"",Women+,18 to 44 years,"Wait time, 6 months or more",1.3.2.4.4,20.5
+v1793295787,Canada (excluding territories),"",Women+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,1.3.2.5.4,44.9
+v1793295794,Canada (excluding territories),"",Women+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,1.3.2.6.4,35.4
+v1793295801,Canada (excluding territories),"",Women+,18 to 44 years,Life affected by wait time,1.3.2.7.4,65.9
+v1793295808,Canada (excluding territories),"",Women+,45 to 64 years,"Total, wait time - medical specialist",1.3.3.1.4,100.0
+v1793295815,Canada (excluding territories),"",Women+,45 to 64 years,"Wait time, less than 3 months",1.3.3.2.4,59.2
+v1793295822,Canada (excluding territories),"",Women+,45 to 64 years,"Wait time, 3 months to less than 6 months",1.3.3.3.4,17.6
+v1793295829,Canada (excluding territories),"",Women+,45 to 64 years,"Wait time, 6 months or more",1.3.3.4.4,23.3
+v1793295836,Canada (excluding territories),"",Women+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,1.3.3.5.4,45.6
+v1793295843,Canada (excluding territories),"",Women+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,1.3.3.6.4,33.2
+v1793295850,Canada (excluding territories),"",Women+,45 to 64 years,Life affected by wait time,1.3.3.7.4,68.3
+v1793295857,Canada (excluding territories),"",Women+,65 years and over,"Total, wait time - medical specialist",1.3.4.1.4,100.0
+v1793295864,Canada (excluding territories),"",Women+,65 years and over,"Wait time, less than 3 months",1.3.4.2.4,66.2
+v1793295871,Canada (excluding territories),"",Women+,65 years and over,"Wait time, 3 months to less than 6 months",1.3.4.3.4,16.9
+v1793295878,Canada (excluding territories),"",Women+,65 years and over,"Wait time, 6 months or more",1.3.4.4.4,16.9
+v1793295885,Canada (excluding territories),"",Women+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,1.3.4.5.4,58.9
+v1793295892,Canada (excluding territories),"",Women+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,1.3.4.6.4,21.2
+v1793295899,Canada (excluding territories),"",Women+,65 years and over,Life affected by wait time,1.3.4.7.4,56.7
+v1793295906,Newfoundland and Labrador,2021A000210,Both genders,"Total, 18 years and over","Total, wait time - medical specialist",2.1.1.1.4,100.0
+v1793295913,Newfoundland and Labrador,2021A000210,Both genders,"Total, 18 years and over","Wait time, less than 3 months",2.1.1.2.4,55.9
+v1793295920,Newfoundland and Labrador,2021A000210,Both genders,"Total, 18 years and over","Wait time, 3 months to less than 6 months",2.1.1.3.4,20.3
+v1793295927,Newfoundland and Labrador,2021A000210,Both genders,"Total, 18 years and over","Wait time, 6 months or more",2.1.1.4.4,23.8
+v1793295934,Newfoundland and Labrador,2021A000210,Both genders,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,2.1.1.5.4,51.5
+v1793295941,Newfoundland and Labrador,2021A000210,Both genders,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,2.1.1.6.4,28.2
+v1793295948,Newfoundland and Labrador,2021A000210,Both genders,"Total, 18 years and over",Life affected by wait time,2.1.1.7.4,61.9
+v1793295955,Newfoundland and Labrador,2021A000210,Both genders,18 to 44 years,"Total, wait time - medical specialist",2.1.2.1.4,100.0
+v1793295962,Newfoundland and Labrador,2021A000210,Both genders,18 to 44 years,"Wait time, less than 3 months",2.1.2.2.4,52.3
+v1793295969,Newfoundland and Labrador,2021A000210,Both genders,18 to 44 years,"Wait time, 3 months to less than 6 months",2.1.2.3.4,22.6
+v1793295976,Newfoundland and Labrador,2021A000210,Both genders,18 to 44 years,"Wait time, 6 months or more",2.1.2.4.4,25.1
+v1793295983,Newfoundland and Labrador,2021A000210,Both genders,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,2.1.2.5.4,44.1
+v1793295990,Newfoundland and Labrador,2021A000210,Both genders,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,2.1.2.6.4,34.9
+v1793295997,Newfoundland and Labrador,2021A000210,Both genders,18 to 44 years,Life affected by wait time,2.1.2.7.4,66.9
+v1793296004,Newfoundland and Labrador,2021A000210,Both genders,45 to 64 years,"Total, wait time - medical specialist",2.1.3.1.4,100.0
+v1793296011,Newfoundland and Labrador,2021A000210,Both genders,45 to 64 years,"Wait time, less than 3 months",2.1.3.2.4,55.5
+v1793296018,Newfoundland and Labrador,2021A000210,Both genders,45 to 64 years,"Wait time, 3 months to less than 6 months",2.1.3.3.4,19.7
+v1793296025,Newfoundland and Labrador,2021A000210,Both genders,45 to 64 years,"Wait time, 6 months or more",2.1.3.4.4,24.8
+v1793296032,Newfoundland and Labrador,2021A000210,Both genders,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,2.1.3.5.4,49.0
+v1793296039,Newfoundland and Labrador,2021A000210,Both genders,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,2.1.3.6.4,31.7
+v1793296046,Newfoundland and Labrador,2021A000210,Both genders,45 to 64 years,Life affected by wait time,2.1.3.7.4,63.8
+v1793296053,Newfoundland and Labrador,2021A000210,Both genders,65 years and over,"Total, wait time - medical specialist",2.1.4.1.4,100.0
+v1793296060,Newfoundland and Labrador,2021A000210,Both genders,65 years and over,"Wait time, less than 3 months",2.1.4.2.4,59.7
+v1793296067,Newfoundland and Labrador,2021A000210,Both genders,65 years and over,"Wait time, 3 months to less than 6 months",2.1.4.3.4,18.8
+v1793296074,Newfoundland and Labrador,2021A000210,Both genders,65 years and over,"Wait time, 6 months or more",2.1.4.4.4,21.6
+v1793296081,Newfoundland and Labrador,2021A000210,Both genders,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,2.1.4.5.4,60.8
+v1793296088,Newfoundland and Labrador,2021A000210,Both genders,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,2.1.4.6.4,18.6
+v1793296095,Newfoundland and Labrador,2021A000210,Both genders,65 years and over,Life affected by wait time,2.1.4.7.4,55.3
+v1793296102,Newfoundland and Labrador,2021A000210,Men+,"Total, 18 years and over","Total, wait time - medical specialist",2.2.1.1.4,100.0
+v1793296109,Newfoundland and Labrador,2021A000210,Men+,"Total, 18 years and over","Wait time, less than 3 months",2.2.1.2.4,60.3
+v1793296116,Newfoundland and Labrador,2021A000210,Men+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",2.2.1.3.4,20.8
+v1793296123,Newfoundland and Labrador,2021A000210,Men+,"Total, 18 years and over","Wait time, 6 months or more",2.2.1.4.4,18.8
+v1793296130,Newfoundland and Labrador,2021A000210,Men+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,2.2.1.5.4,52.9
+v1793296137,Newfoundland and Labrador,2021A000210,Men+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,2.2.1.6.4,25.9
+v1793296144,Newfoundland and Labrador,2021A000210,Men+,"Total, 18 years and over",Life affected by wait time,2.2.1.7.4,61.2
+v1793296151,Newfoundland and Labrador,2021A000210,Men+,18 to 44 years,"Total, wait time - medical specialist",2.2.2.1.4,100.0
+v1793296158,Newfoundland and Labrador,2021A000210,Men+,18 to 44 years,"Wait time, less than 3 months",2.2.2.2.4,59.2
+v1793296165,Newfoundland and Labrador,2021A000210,Men+,18 to 44 years,"Wait time, 3 months to less than 6 months",2.2.2.3.4,24.0
+v1793296172,Newfoundland and Labrador,2021A000210,Men+,18 to 44 years,"Wait time, 6 months or more",2.2.2.4.4,16.8
+v1793296179,Newfoundland and Labrador,2021A000210,Men+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,2.2.2.5.4,49.3
+v1793296186,Newfoundland and Labrador,2021A000210,Men+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,2.2.2.6.4,28.4
+v1793296193,Newfoundland and Labrador,2021A000210,Men+,18 to 44 years,Life affected by wait time,2.2.2.7.4,64.7
+v1793296200,Newfoundland and Labrador,2021A000210,Men+,45 to 64 years,"Total, wait time - medical specialist",2.2.3.1.4,100.0
+v1793296207,Newfoundland and Labrador,2021A000210,Men+,45 to 64 years,"Wait time, less than 3 months",2.2.3.2.4,56.7
+v1793296214,Newfoundland and Labrador,2021A000210,Men+,45 to 64 years,"Wait time, 3 months to less than 6 months",2.2.3.3.4,20.7
+v1793296221,Newfoundland and Labrador,2021A000210,Men+,45 to 64 years,"Wait time, 6 months or more",2.2.3.4.4,22.6
+v1793296228,Newfoundland and Labrador,2021A000210,Men+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,2.2.3.5.4,45.7
+v1793296235,Newfoundland and Labrador,2021A000210,Men+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,2.2.3.6.4,35.4
+v1793296242,Newfoundland and Labrador,2021A000210,Men+,45 to 64 years,Life affected by wait time,2.2.3.7.4,67.9
+v1793296249,Newfoundland and Labrador,2021A000210,Men+,65 years and over,"Total, wait time - medical specialist",2.2.4.1.4,100.0
+v1793296256,Newfoundland and Labrador,2021A000210,Men+,65 years and over,"Wait time, less than 3 months",2.2.4.2.4,64.5
+v1793296263,Newfoundland and Labrador,2021A000210,Men+,65 years and over,"Wait time, 3 months to less than 6 months",2.2.4.3.4,18.7
+v1793296270,Newfoundland and Labrador,2021A000210,Men+,65 years and over,"Wait time, 6 months or more",2.2.4.4.4,16.8
+v1793296277,Newfoundland and Labrador,2021A000210,Men+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,2.2.4.5.4,61.8
+v1793296284,Newfoundland and Labrador,2021A000210,Men+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,2.2.4.6.4,15.6
+v1793296291,Newfoundland and Labrador,2021A000210,Men+,65 years and over,Life affected by wait time,2.2.4.7.4,52.7
+v1793296298,Newfoundland and Labrador,2021A000210,Women+,"Total, 18 years and over","Total, wait time - medical specialist",2.3.1.1.4,100.0
+v1793296305,Newfoundland and Labrador,2021A000210,Women+,"Total, 18 years and over","Wait time, less than 3 months",2.3.1.2.4,52.3
+v1793296312,Newfoundland and Labrador,2021A000210,Women+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",2.3.1.3.4,19.8
+v1793296319,Newfoundland and Labrador,2021A000210,Women+,"Total, 18 years and over","Wait time, 6 months or more",2.3.1.4.4,27.9
+v1793296326,Newfoundland and Labrador,2021A000210,Women+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,2.3.1.5.4,50.4
+v1793296333,Newfoundland and Labrador,2021A000210,Women+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,2.3.1.6.4,30.1
+v1793296340,Newfoundland and Labrador,2021A000210,Women+,"Total, 18 years and over",Life affected by wait time,2.3.1.7.4,62.5
+v1793296347,Newfoundland and Labrador,2021A000210,Women+,18 to 44 years,"Total, wait time - medical specialist",2.3.2.1.4,100.0
+v1793296354,Newfoundland and Labrador,2021A000210,Women+,18 to 44 years,"Wait time, less than 3 months",2.3.2.2.4,47.9
+v1793296361,Newfoundland and Labrador,2021A000210,Women+,18 to 44 years,"Wait time, 3 months to less than 6 months",2.3.2.3.4,21.7
+v1793296368,Newfoundland and Labrador,2021A000210,Women+,18 to 44 years,"Wait time, 6 months or more",2.3.2.4.4,30.4
+v1793296375,Newfoundland and Labrador,2021A000210,Women+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,2.3.2.5.4,40.8
+v1793296382,Newfoundland and Labrador,2021A000210,Women+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,2.3.2.6.4,39.0
+v1793296389,Newfoundland and Labrador,2021A000210,Women+,18 to 44 years,Life affected by wait time,2.3.2.7.4,68.3
+v1793296396,Newfoundland and Labrador,2021A000210,Women+,45 to 64 years,"Total, wait time - medical specialist",2.3.3.1.4,100.0
+v1793296403,Newfoundland and Labrador,2021A000210,Women+,45 to 64 years,"Wait time, less than 3 months",2.3.3.2.4,54.5
+v1793296410,Newfoundland and Labrador,2021A000210,Women+,45 to 64 years,"Wait time, 3 months to less than 6 months",2.3.3.3.4,18.9
+v1793296417,Newfoundland and Labrador,2021A000210,Women+,45 to 64 years,"Wait time, 6 months or more",2.3.3.4.4,26.6
+v1793296424,Newfoundland and Labrador,2021A000210,Women+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,2.3.3.5.4,51.6
+v1793296431,Newfoundland and Labrador,2021A000210,Women+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,2.3.3.6.4,28.7
+v1793296438,Newfoundland and Labrador,2021A000210,Women+,45 to 64 years,Life affected by wait time,2.3.3.7.4,60.3
+v1793296445,Newfoundland and Labrador,2021A000210,Women+,65 years and over,"Total, wait time - medical specialist",2.3.4.1.4,100.0
+v1793296452,Newfoundland and Labrador,2021A000210,Women+,65 years and over,"Wait time, less than 3 months",2.3.4.2.4,54.8
+v1793296459,Newfoundland and Labrador,2021A000210,Women+,65 years and over,"Wait time, 3 months to less than 6 months",2.3.4.3.4,18.8
+v1793296466,Newfoundland and Labrador,2021A000210,Women+,65 years and over,"Wait time, 6 months or more",2.3.4.4.4,26.4
+v1793296473,Newfoundland and Labrador,2021A000210,Women+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,2.3.4.5.4,59.9
+v1793296480,Newfoundland and Labrador,2021A000210,Women+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,2.3.4.6.4,21.5
+v1793296487,Newfoundland and Labrador,2021A000210,Women+,65 years and over,Life affected by wait time,2.3.4.7.4,58.0
+v1793296494,Prince Edward Island,2021A000211,Both genders,"Total, 18 years and over","Total, wait time - medical specialist",3.1.1.1.4,100.0
+v1793296501,Prince Edward Island,2021A000211,Both genders,"Total, 18 years and over","Wait time, less than 3 months",3.1.1.2.4,60.8
+v1793296508,Prince Edward Island,2021A000211,Both genders,"Total, 18 years and over","Wait time, 3 months to less than 6 months",3.1.1.3.4,13.6
+v1793296515,Prince Edward Island,2021A000211,Both genders,"Total, 18 years and over","Wait time, 6 months or more",3.1.1.4.4,25.6
+v1793296522,Prince Edward Island,2021A000211,Both genders,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,3.1.1.5.4,54.0
+v1793296529,Prince Edward Island,2021A000211,Both genders,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,3.1.1.6.4,29.3
+v1793296536,Prince Edward Island,2021A000211,Both genders,"Total, 18 years and over",Life affected by wait time,3.1.1.7.4,65.3
+v1793296543,Prince Edward Island,2021A000211,Both genders,18 to 44 years,"Total, wait time - medical specialist",3.1.2.1.4,100.0
+v1793296550,Prince Edward Island,2021A000211,Both genders,18 to 44 years,"Wait time, less than 3 months",3.1.2.2.4,60.2
+v1793296557,Prince Edward Island,2021A000211,Both genders,18 to 44 years,"Wait time, 3 months to less than 6 months",3.1.2.3.4,11.7
+v1793296564,Prince Edward Island,2021A000211,Both genders,18 to 44 years,"Wait time, 6 months or more",3.1.2.4.4,28.1
+v1793296571,Prince Edward Island,2021A000211,Both genders,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,3.1.2.5.4,44.4
+v1793296578,Prince Edward Island,2021A000211,Both genders,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,3.1.2.6.4,37.9
+v1793296585,Prince Edward Island,2021A000211,Both genders,18 to 44 years,Life affected by wait time,3.1.2.7.4,73.8
+v1793296592,Prince Edward Island,2021A000211,Both genders,45 to 64 years,"Total, wait time - medical specialist",3.1.3.1.4,100.0
+v1793296599,Prince Edward Island,2021A000211,Both genders,45 to 64 years,"Wait time, less than 3 months",3.1.3.2.4,59.7
+v1793296606,Prince Edward Island,2021A000211,Both genders,45 to 64 years,"Wait time, 3 months to less than 6 months",3.1.3.3.4,14.2
+v1793296613,Prince Edward Island,2021A000211,Both genders,45 to 64 years,"Wait time, 6 months or more",3.1.3.4.4,26.1
+v1793296620,Prince Edward Island,2021A000211,Both genders,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,3.1.3.5.4,54.7
+v1793296627,Prince Edward Island,2021A000211,Both genders,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,3.1.3.6.4,28.4
+v1793296634,Prince Edward Island,2021A000211,Both genders,45 to 64 years,Life affected by wait time,3.1.3.7.4,66.1
+v1793296641,Prince Edward Island,2021A000211,Both genders,65 years and over,"Total, wait time - medical specialist",3.1.4.1.4,100.0
+v1793296648,Prince Edward Island,2021A000211,Both genders,65 years and over,"Wait time, less than 3 months",3.1.4.2.4,62.6
+v1793296655,Prince Edward Island,2021A000211,Both genders,65 years and over,"Wait time, 3 months to less than 6 months",3.1.4.3.4,15.0
+v1793296662,Prince Edward Island,2021A000211,Both genders,65 years and over,"Wait time, 6 months or more",3.1.4.4.4,22.4
+v1793296669,Prince Edward Island,2021A000211,Both genders,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,3.1.4.5.4,64.1
+v1793296676,Prince Edward Island,2021A000211,Both genders,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,3.1.4.6.4,20.6
+v1793296683,Prince Edward Island,2021A000211,Both genders,65 years and over,Life affected by wait time,3.1.4.7.4,54.8
+v1793296690,Prince Edward Island,2021A000211,Men+,"Total, 18 years and over","Total, wait time - medical specialist",3.2.1.1.4,100.0
+v1793296697,Prince Edward Island,2021A000211,Men+,"Total, 18 years and over","Wait time, less than 3 months",3.2.1.2.4,61.9
+v1793296704,Prince Edward Island,2021A000211,Men+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",3.2.1.3.4,14.6
+v1793296711,Prince Edward Island,2021A000211,Men+,"Total, 18 years and over","Wait time, 6 months or more",3.2.1.4.4,23.5
+v1793296718,Prince Edward Island,2021A000211,Men+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,3.2.1.5.4,56.1
+v1793296725,Prince Edward Island,2021A000211,Men+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,3.2.1.6.4,28.8
+v1793296732,Prince Edward Island,2021A000211,Men+,"Total, 18 years and over",Life affected by wait time,3.2.1.7.4,62.7
+v1793296788,Prince Edward Island,2021A000211,Men+,45 to 64 years,"Total, wait time - medical specialist",3.2.3.1.4,100.0
+v1793296795,Prince Edward Island,2021A000211,Men+,45 to 64 years,"Wait time, less than 3 months",3.2.3.2.4,61.6
+v1793296802,Prince Edward Island,2021A000211,Men+,45 to 64 years,"Wait time, 3 months to less than 6 months",3.2.3.3.4,10.2
+v1793296809,Prince Edward Island,2021A000211,Men+,45 to 64 years,"Wait time, 6 months or more",3.2.3.4.4,28.2
+v1793296816,Prince Edward Island,2021A000211,Men+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,3.2.3.5.4,52.9
+v1793296823,Prince Edward Island,2021A000211,Men+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,3.2.3.6.4,30.2
+v1793296830,Prince Edward Island,2021A000211,Men+,45 to 64 years,Life affected by wait time,3.2.3.7.4,64.1
+v1793296837,Prince Edward Island,2021A000211,Men+,65 years and over,"Total, wait time - medical specialist",3.2.4.1.4,100.0
+v1793296844,Prince Edward Island,2021A000211,Men+,65 years and over,"Wait time, less than 3 months",3.2.4.2.4,63.3
+v1793296851,Prince Edward Island,2021A000211,Men+,65 years and over,"Wait time, 3 months to less than 6 months",3.2.4.3.4,16.6
+v1793296858,Prince Edward Island,2021A000211,Men+,65 years and over,"Wait time, 6 months or more",3.2.4.4.4,20.1
+v1793296865,Prince Edward Island,2021A000211,Men+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,3.2.4.5.4,66.0
+v1793296872,Prince Edward Island,2021A000211,Men+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,3.2.4.6.4,21.4
+v1793296879,Prince Edward Island,2021A000211,Men+,65 years and over,Life affected by wait time,3.2.4.7.4,55.3
+v1793296886,Prince Edward Island,2021A000211,Women+,"Total, 18 years and over","Total, wait time - medical specialist",3.3.1.1.4,100.0
+v1793296893,Prince Edward Island,2021A000211,Women+,"Total, 18 years and over","Wait time, less than 3 months",3.3.1.2.4,60.0
+v1793296900,Prince Edward Island,2021A000211,Women+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",3.3.1.3.4,12.8
+v1793296907,Prince Edward Island,2021A000211,Women+,"Total, 18 years and over","Wait time, 6 months or more",3.3.1.4.4,27.2
+v1793296914,Prince Edward Island,2021A000211,Women+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,3.3.1.5.4,52.5
+v1793296921,Prince Edward Island,2021A000211,Women+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,3.3.1.6.4,29.7
+v1793296928,Prince Edward Island,2021A000211,Women+,"Total, 18 years and over",Life affected by wait time,3.3.1.7.4,67.2
+v1793296935,Prince Edward Island,2021A000211,Women+,18 to 44 years,"Total, wait time - medical specialist",3.3.2.1.4,100.0
+v1793296942,Prince Edward Island,2021A000211,Women+,18 to 44 years,"Wait time, less than 3 months",3.3.2.2.4,60.1
+v1793296949,Prince Edward Island,2021A000211,Women+,18 to 44 years,"Wait time, 3 months to less than 6 months",3.3.2.3.4,8.9
+v1793296956,Prince Edward Island,2021A000211,Women+,18 to 44 years,"Wait time, 6 months or more",3.3.2.4.4,31.0
+v1793296963,Prince Edward Island,2021A000211,Women+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,3.3.2.5.4,43.5
+v1793296970,Prince Edward Island,2021A000211,Women+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,3.3.2.6.4,38.1
+v1793296977,Prince Edward Island,2021A000211,Women+,18 to 44 years,Life affected by wait time,3.3.2.7.4,74.9
+v1793296984,Prince Edward Island,2021A000211,Women+,45 to 64 years,"Total, wait time - medical specialist",3.3.3.1.4,100.0
+v1793296991,Prince Edward Island,2021A000211,Women+,45 to 64 years,"Wait time, less than 3 months",3.3.3.2.4,58.2
+v1793296998,Prince Edward Island,2021A000211,Women+,45 to 64 years,"Wait time, 3 months to less than 6 months",3.3.3.3.4,17.4
+v1793297005,Prince Edward Island,2021A000211,Women+,45 to 64 years,"Wait time, 6 months or more",3.3.3.4.4,24.4
+v1793297012,Prince Edward Island,2021A000211,Women+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,3.3.3.5.4,56.2
+v1793297019,Prince Edward Island,2021A000211,Women+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,3.3.3.6.4,26.9
+v1793297026,Prince Edward Island,2021A000211,Women+,45 to 64 years,Life affected by wait time,3.3.3.7.4,67.8
+v1793297033,Prince Edward Island,2021A000211,Women+,65 years and over,"Total, wait time - medical specialist",3.3.4.1.4,100.0
+v1793297040,Prince Edward Island,2021A000211,Women+,65 years and over,"Wait time, less than 3 months",3.3.4.2.4,61.9
+v1793297047,Prince Edward Island,2021A000211,Women+,65 years and over,"Wait time, 3 months to less than 6 months",3.3.4.3.4,13.5
+v1793297054,Prince Edward Island,2021A000211,Women+,65 years and over,"Wait time, 6 months or more",3.3.4.4.4,24.6
+v1793297061,Prince Edward Island,2021A000211,Women+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,3.3.4.5.4,62.3
+v1793297068,Prince Edward Island,2021A000211,Women+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,3.3.4.6.4,19.8
+v1793297075,Prince Edward Island,2021A000211,Women+,65 years and over,Life affected by wait time,3.3.4.7.4,54.4
+v1793297082,Nova Scotia,2021A000212,Both genders,"Total, 18 years and over","Total, wait time - medical specialist",4.1.1.1.4,100.0
+v1793297089,Nova Scotia,2021A000212,Both genders,"Total, 18 years and over","Wait time, less than 3 months",4.1.1.2.4,59.9
+v1793297096,Nova Scotia,2021A000212,Both genders,"Total, 18 years and over","Wait time, 3 months to less than 6 months",4.1.1.3.4,16.8
+v1793297103,Nova Scotia,2021A000212,Both genders,"Total, 18 years and over","Wait time, 6 months or more",4.1.1.4.4,23.3
+v1793297110,Nova Scotia,2021A000212,Both genders,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,4.1.1.5.4,52.2
+v1793297117,Nova Scotia,2021A000212,Both genders,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,4.1.1.6.4,29.7
+v1793297124,Nova Scotia,2021A000212,Both genders,"Total, 18 years and over",Life affected by wait time,4.1.1.7.4,65.9
+v1793297131,Nova Scotia,2021A000212,Both genders,18 to 44 years,"Total, wait time - medical specialist",4.1.2.1.4,100.0
+v1793297138,Nova Scotia,2021A000212,Both genders,18 to 44 years,"Wait time, less than 3 months",4.1.2.2.4,60.4
+v1793297145,Nova Scotia,2021A000212,Both genders,18 to 44 years,"Wait time, 3 months to less than 6 months",4.1.2.3.4,15.9
+v1793297152,Nova Scotia,2021A000212,Both genders,18 to 44 years,"Wait time, 6 months or more",4.1.2.4.4,23.7
+v1793297159,Nova Scotia,2021A000212,Both genders,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,4.1.2.5.4,41.1
+v1793297166,Nova Scotia,2021A000212,Both genders,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,4.1.2.6.4,35.1
+v1793297173,Nova Scotia,2021A000212,Both genders,18 to 44 years,Life affected by wait time,4.1.2.7.4,75.0
+v1793297180,Nova Scotia,2021A000212,Both genders,45 to 64 years,"Total, wait time - medical specialist",4.1.3.1.4,100.0
+v1793297187,Nova Scotia,2021A000212,Both genders,45 to 64 years,"Wait time, less than 3 months",4.1.3.2.4,54.5
+v1793297194,Nova Scotia,2021A000212,Both genders,45 to 64 years,"Wait time, 3 months to less than 6 months",4.1.3.3.4,18.0
+v1793297201,Nova Scotia,2021A000212,Both genders,45 to 64 years,"Wait time, 6 months or more",4.1.3.4.4,27.5
+v1793297208,Nova Scotia,2021A000212,Both genders,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,4.1.3.5.4,53.5
+v1793297215,Nova Scotia,2021A000212,Both genders,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,4.1.3.6.4,31.2
+v1793297222,Nova Scotia,2021A000212,Both genders,45 to 64 years,Life affected by wait time,4.1.3.7.4,67.0
+v1793297229,Nova Scotia,2021A000212,Both genders,65 years and over,"Total, wait time - medical specialist",4.1.4.1.4,100.0
+v1793297236,Nova Scotia,2021A000212,Both genders,65 years and over,"Wait time, less than 3 months",4.1.4.2.4,65.5
+v1793297243,Nova Scotia,2021A000212,Both genders,65 years and over,"Wait time, 3 months to less than 6 months",4.1.4.3.4,16.6
+v1793297250,Nova Scotia,2021A000212,Both genders,65 years and over,"Wait time, 6 months or more",4.1.4.4.4,18.0
+v1793297257,Nova Scotia,2021A000212,Both genders,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,4.1.4.5.4,63.6
+v1793297264,Nova Scotia,2021A000212,Both genders,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,4.1.4.6.4,22.0
+v1793297271,Nova Scotia,2021A000212,Both genders,65 years and over,Life affected by wait time,4.1.4.7.4,54.3
+v1793297278,Nova Scotia,2021A000212,Men+,"Total, 18 years and over","Total, wait time - medical specialist",4.2.1.1.4,100.0
+v1793297285,Nova Scotia,2021A000212,Men+,"Total, 18 years and over","Wait time, less than 3 months",4.2.1.2.4,64.3
+v1793297292,Nova Scotia,2021A000212,Men+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",4.2.1.3.4,14.2
+v1793297299,Nova Scotia,2021A000212,Men+,"Total, 18 years and over","Wait time, 6 months or more",4.2.1.4.4,21.6
+v1793297306,Nova Scotia,2021A000212,Men+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,4.2.1.5.4,52.6
+v1793297313,Nova Scotia,2021A000212,Men+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,4.2.1.6.4,29.5
+v1793297320,Nova Scotia,2021A000212,Men+,"Total, 18 years and over",Life affected by wait time,4.2.1.7.4,64.0
+v1793297376,Nova Scotia,2021A000212,Men+,45 to 64 years,"Total, wait time - medical specialist",4.2.3.1.4,100.0
+v1793297383,Nova Scotia,2021A000212,Men+,45 to 64 years,"Wait time, less than 3 months",4.2.3.2.4,62.2
+v1793297390,Nova Scotia,2021A000212,Men+,45 to 64 years,"Wait time, 3 months to less than 6 months",4.2.3.3.4,16.5
+v1793297397,Nova Scotia,2021A000212,Men+,45 to 64 years,"Wait time, 6 months or more",4.2.3.4.4,21.3
+v1793297404,Nova Scotia,2021A000212,Men+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,4.2.3.5.4,60.5
+v1793297411,Nova Scotia,2021A000212,Men+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,4.2.3.6.4,24.4
+v1793297810,New Brunswick,2021A000213,Both genders,45 to 64 years,Life affected by wait time,5.1.3.7.4,59.0
+v1793297418,Nova Scotia,2021A000212,Men+,45 to 64 years,Life affected by wait time,4.2.3.7.4,63.0
+v1793297425,Nova Scotia,2021A000212,Men+,65 years and over,"Total, wait time - medical specialist",4.2.4.1.4,100.0
+v1793297432,Nova Scotia,2021A000212,Men+,65 years and over,"Wait time, less than 3 months",4.2.4.2.4,67.3
+v1793297439,Nova Scotia,2021A000212,Men+,65 years and over,"Wait time, 3 months to less than 6 months",4.2.4.3.4,16.9
+v1793297446,Nova Scotia,2021A000212,Men+,65 years and over,"Wait time, 6 months or more",4.2.4.4.4,15.8
+v1793297453,Nova Scotia,2021A000212,Men+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,4.2.4.5.4,64.2
+v1793297460,Nova Scotia,2021A000212,Men+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,4.2.4.6.4,25.1
+v1793297467,Nova Scotia,2021A000212,Men+,65 years and over,Life affected by wait time,4.2.4.7.4,55.6
+v1793297474,Nova Scotia,2021A000212,Women+,"Total, 18 years and over","Total, wait time - medical specialist",4.3.1.1.4,100.0
+v1793297481,Nova Scotia,2021A000212,Women+,"Total, 18 years and over","Wait time, less than 3 months",4.3.1.2.4,56.1
+v1793297488,Nova Scotia,2021A000212,Women+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",4.3.1.3.4,19.2
+v1793297495,Nova Scotia,2021A000212,Women+,"Total, 18 years and over","Wait time, 6 months or more",4.3.1.4.4,24.8
+v1793297502,Nova Scotia,2021A000212,Women+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,4.3.1.5.4,51.9
+v1793297509,Nova Scotia,2021A000212,Women+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,4.3.1.6.4,29.9
+v1793297516,Nova Scotia,2021A000212,Women+,"Total, 18 years and over",Life affected by wait time,4.3.1.7.4,67.7
+v1793297523,Nova Scotia,2021A000212,Women+,18 to 44 years,"Total, wait time - medical specialist",4.3.2.1.4,100.0
+v1793297530,Nova Scotia,2021A000212,Women+,18 to 44 years,"Wait time, less than 3 months",4.3.2.2.4,58.3
+v1793297537,Nova Scotia,2021A000212,Women+,18 to 44 years,"Wait time, 3 months to less than 6 months",4.3.2.3.4,21.3
+v1793297544,Nova Scotia,2021A000212,Women+,18 to 44 years,"Wait time, 6 months or more",4.3.2.4.4,20.4
+v1793297551,Nova Scotia,2021A000212,Women+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,4.3.2.5.4,47.9
+v1793297558,Nova Scotia,2021A000212,Women+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,4.3.2.6.4,31.9
+v1793297565,Nova Scotia,2021A000212,Women+,18 to 44 years,Life affected by wait time,4.3.2.7.4,75.8
+v1793297572,Nova Scotia,2021A000212,Women+,45 to 64 years,"Total, wait time - medical specialist",4.3.3.1.4,100.0
+v1793297579,Nova Scotia,2021A000212,Women+,45 to 64 years,"Wait time, less than 3 months",4.3.3.2.4,48.3
+v1793297586,Nova Scotia,2021A000212,Women+,45 to 64 years,"Wait time, 3 months to less than 6 months",4.3.3.3.4,19.1
+v1793297593,Nova Scotia,2021A000212,Women+,45 to 64 years,"Wait time, 6 months or more",4.3.3.4.4,32.6
+v1793297600,Nova Scotia,2021A000212,Women+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,4.3.3.5.4,47.8
+v1793297607,Nova Scotia,2021A000212,Women+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,4.3.3.6.4,36.7
+v1793297614,Nova Scotia,2021A000212,Women+,45 to 64 years,Life affected by wait time,4.3.3.7.4,70.2
+v1793297621,Nova Scotia,2021A000212,Women+,65 years and over,"Total, wait time - medical specialist",4.3.4.1.4,100.0
+v1793297628,Nova Scotia,2021A000212,Women+,65 years and over,"Wait time, less than 3 months",4.3.4.2.4,63.4
+v1793297635,Nova Scotia,2021A000212,Women+,65 years and over,"Wait time, 3 months to less than 6 months",4.3.4.3.4,16.1
+v1793297642,Nova Scotia,2021A000212,Women+,65 years and over,"Wait time, 6 months or more",4.3.4.4.4,20.4
+v1793297649,Nova Scotia,2021A000212,Women+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,4.3.4.5.4,62.9
+v1793297656,Nova Scotia,2021A000212,Women+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,4.3.4.6.4,18.4
+v1793297663,Nova Scotia,2021A000212,Women+,65 years and over,Life affected by wait time,4.3.4.7.4,52.9
+v1793297670,New Brunswick,2021A000213,Both genders,"Total, 18 years and over","Total, wait time - medical specialist",5.1.1.1.4,100.0
+v1793297677,New Brunswick,2021A000213,Both genders,"Total, 18 years and over","Wait time, less than 3 months",5.1.1.2.4,63.2
+v1793297684,New Brunswick,2021A000213,Both genders,"Total, 18 years and over","Wait time, 3 months to less than 6 months",5.1.1.3.4,16.0
+v1793297691,New Brunswick,2021A000213,Both genders,"Total, 18 years and over","Wait time, 6 months or more",5.1.1.4.4,20.8
+v1793297698,New Brunswick,2021A000213,Both genders,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,5.1.1.5.4,58.2
+v1793297705,New Brunswick,2021A000213,Both genders,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,5.1.1.6.4,25.6
+v1793297712,New Brunswick,2021A000213,Both genders,"Total, 18 years and over",Life affected by wait time,5.1.1.7.4,54.5
+v1793297719,New Brunswick,2021A000213,Both genders,18 to 44 years,"Total, wait time - medical specialist",5.1.2.1.4,100.0
+v1793297726,New Brunswick,2021A000213,Both genders,18 to 44 years,"Wait time, less than 3 months",5.1.2.2.4,64.3
+v1793297733,New Brunswick,2021A000213,Both genders,18 to 44 years,"Wait time, 3 months to less than 6 months",5.1.2.3.4,13.2
+v1793297740,New Brunswick,2021A000213,Both genders,18 to 44 years,"Wait time, 6 months or more",5.1.2.4.4,22.5
+v1793297747,New Brunswick,2021A000213,Both genders,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,5.1.2.5.4,48.7
+v1793297754,New Brunswick,2021A000213,Both genders,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,5.1.2.6.4,32.4
+v1793297761,New Brunswick,2021A000213,Both genders,18 to 44 years,Life affected by wait time,5.1.2.7.4,57.1
+v1793297768,New Brunswick,2021A000213,Both genders,45 to 64 years,"Total, wait time - medical specialist",5.1.3.1.4,100.0
+v1793297775,New Brunswick,2021A000213,Both genders,45 to 64 years,"Wait time, less than 3 months",5.1.3.2.4,55.1
+v1793297782,New Brunswick,2021A000213,Both genders,45 to 64 years,"Wait time, 3 months to less than 6 months",5.1.3.3.4,21.7
+v1793297789,New Brunswick,2021A000213,Both genders,45 to 64 years,"Wait time, 6 months or more",5.1.3.4.4,23.2
+v1793297796,New Brunswick,2021A000213,Both genders,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,5.1.3.5.4,56.2
+v1793297803,New Brunswick,2021A000213,Both genders,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,5.1.3.6.4,27.9
+v1793297817,New Brunswick,2021A000213,Both genders,65 years and over,"Total, wait time - medical specialist",5.1.4.1.4,100.0
+v1793297824,New Brunswick,2021A000213,Both genders,65 years and over,"Wait time, less than 3 months",5.1.4.2.4,69.7
+v1793297831,New Brunswick,2021A000213,Both genders,65 years and over,"Wait time, 3 months to less than 6 months",5.1.4.3.4,13.4
+v1793297838,New Brunswick,2021A000213,Both genders,65 years and over,"Wait time, 6 months or more",5.1.4.4.4,16.9
+v1793297845,New Brunswick,2021A000213,Both genders,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,5.1.4.5.4,69.1
+v1793297852,New Brunswick,2021A000213,Both genders,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,5.1.4.6.4,17.0
+v1793297859,New Brunswick,2021A000213,Both genders,65 years and over,Life affected by wait time,5.1.4.7.4,47.9
+v1793297866,New Brunswick,2021A000213,Men+,"Total, 18 years and over","Total, wait time - medical specialist",5.2.1.1.4,100.0
+v1793297873,New Brunswick,2021A000213,Men+,"Total, 18 years and over","Wait time, less than 3 months",5.2.1.2.4,68.4
+v1793297880,New Brunswick,2021A000213,Men+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",5.2.1.3.4,16.1
+v1793297887,New Brunswick,2021A000213,Men+,"Total, 18 years and over","Wait time, 6 months or more",5.2.1.4.4,15.5
+v1793297894,New Brunswick,2021A000213,Men+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,5.2.1.5.4,60.3
+v1793297901,New Brunswick,2021A000213,Men+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,5.2.1.6.4,24.4
+v1793297908,New Brunswick,2021A000213,Men+,"Total, 18 years and over",Life affected by wait time,5.2.1.7.4,48.6
+v1793297964,New Brunswick,2021A000213,Men+,45 to 64 years,"Total, wait time - medical specialist",5.2.3.1.4,100.0
+v1793297971,New Brunswick,2021A000213,Men+,45 to 64 years,"Wait time, less than 3 months",5.2.3.2.4,52.8
+v1793297978,New Brunswick,2021A000213,Men+,45 to 64 years,"Wait time, 3 months to less than 6 months",5.2.3.3.4,28.3
+v1793297985,New Brunswick,2021A000213,Men+,45 to 64 years,"Wait time, 6 months or more",5.2.3.4.4,18.9
+v1793297992,New Brunswick,2021A000213,Men+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,5.2.3.5.4,52.3
+v1793297999,New Brunswick,2021A000213,Men+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,5.2.3.6.4,32.8
+v1793298006,New Brunswick,2021A000213,Men+,45 to 64 years,Life affected by wait time,5.2.3.7.4,56.0
+v1793298013,New Brunswick,2021A000213,Men+,65 years and over,"Total, wait time - medical specialist",5.2.4.1.4,100.0
+v1793298020,New Brunswick,2021A000213,Men+,65 years and over,"Wait time, less than 3 months",5.2.4.2.4,73.5
+v1793298027,New Brunswick,2021A000213,Men+,65 years and over,"Wait time, 3 months to less than 6 months",5.2.4.3.4,12.7
+v1793298034,New Brunswick,2021A000213,Men+,65 years and over,"Wait time, 6 months or more",5.2.4.4.4,13.8
+v1793298041,New Brunswick,2021A000213,Men+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,5.2.4.5.4,70.8
+v1793298048,New Brunswick,2021A000213,Men+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,5.2.4.6.4,15.8
+v1793298055,New Brunswick,2021A000213,Men+,65 years and over,Life affected by wait time,5.2.4.7.4,44.2
+v1793298062,New Brunswick,2021A000213,Women+,"Total, 18 years and over","Total, wait time - medical specialist",5.3.1.1.4,100.0
+v1793298069,New Brunswick,2021A000213,Women+,"Total, 18 years and over","Wait time, less than 3 months",5.3.1.2.4,59.1
+v1793298076,New Brunswick,2021A000213,Women+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",5.3.1.3.4,16.0
+v1793298083,New Brunswick,2021A000213,Women+,"Total, 18 years and over","Wait time, 6 months or more",5.3.1.4.4,24.9
+v1793298090,New Brunswick,2021A000213,Women+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,5.3.1.5.4,56.6
+v1793298097,New Brunswick,2021A000213,Women+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,5.3.1.6.4,26.5
+v1793298104,New Brunswick,2021A000213,Women+,"Total, 18 years and over",Life affected by wait time,5.3.1.7.4,59.1
+v1793298111,New Brunswick,2021A000213,Women+,18 to 44 years,"Total, wait time - medical specialist",5.3.2.1.4,100.0
+v1793298118,New Brunswick,2021A000213,Women+,18 to 44 years,"Wait time, less than 3 months",5.3.2.2.4,54.4
+v1793298125,New Brunswick,2021A000213,Women+,18 to 44 years,"Wait time, 3 months to less than 6 months",5.3.2.3.4,17.5
+v1793298132,New Brunswick,2021A000213,Women+,18 to 44 years,"Wait time, 6 months or more",5.3.2.4.4,28.0
+v1793298139,New Brunswick,2021A000213,Women+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,5.3.2.5.4,43.9
+v1793298146,New Brunswick,2021A000213,Women+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,5.3.2.6.4,36.5
+v1793298153,New Brunswick,2021A000213,Women+,18 to 44 years,Life affected by wait time,5.3.2.7.4,64.2
+v1793298160,New Brunswick,2021A000213,Women+,45 to 64 years,"Total, wait time - medical specialist",5.3.3.1.4,100.0
+v1793298167,New Brunswick,2021A000213,Women+,45 to 64 years,"Wait time, less than 3 months",5.3.3.2.4,57.0
+v1793298174,New Brunswick,2021A000213,Women+,45 to 64 years,"Wait time, 3 months to less than 6 months",5.3.3.3.4,16.3
+v1793298181,New Brunswick,2021A000213,Women+,45 to 64 years,"Wait time, 6 months or more",5.3.3.4.4,26.7
+v1793298188,New Brunswick,2021A000213,Women+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,5.3.3.5.4,59.4
+v1793298195,New Brunswick,2021A000213,Women+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,5.3.3.6.4,24.0
+v1793298202,New Brunswick,2021A000213,Women+,45 to 64 years,Life affected by wait time,5.3.3.7.4,61.4
+v1793298209,New Brunswick,2021A000213,Women+,65 years and over,"Total, wait time - medical specialist",5.3.4.1.4,100.0
+v1793298216,New Brunswick,2021A000213,Women+,65 years and over,"Wait time, less than 3 months",5.3.4.2.4,66.3
+v1793298223,New Brunswick,2021A000213,Women+,65 years and over,"Wait time, 3 months to less than 6 months",5.3.4.3.4,14.0
+v1793298230,New Brunswick,2021A000213,Women+,65 years and over,"Wait time, 6 months or more",5.3.4.4.4,19.7
+v1793298237,New Brunswick,2021A000213,Women+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,5.3.4.5.4,67.5
+v1793298244,New Brunswick,2021A000213,Women+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,5.3.4.6.4,18.1
+v1793298251,New Brunswick,2021A000213,Women+,65 years and over,Life affected by wait time,5.3.4.7.4,51.4
+v1793298258,Quebec,2021A000224,Both genders,"Total, 18 years and over","Total, wait time - medical specialist",6.1.1.1.4,100.0
+v1793298265,Quebec,2021A000224,Both genders,"Total, 18 years and over","Wait time, less than 3 months",6.1.1.2.4,68.3
+v1793298272,Quebec,2021A000224,Both genders,"Total, 18 years and over","Wait time, 3 months to less than 6 months",6.1.1.3.4,12.6
+v1793298279,Quebec,2021A000224,Both genders,"Total, 18 years and over","Wait time, 6 months or more",6.1.1.4.4,19.1
+v1793298286,Quebec,2021A000224,Both genders,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,6.1.1.5.4,60.9
+v1793298293,Quebec,2021A000224,Both genders,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,6.1.1.6.4,22.9
+v1793298300,Quebec,2021A000224,Both genders,"Total, 18 years and over",Life affected by wait time,6.1.1.7.4,59.3
+v1793298307,Quebec,2021A000224,Both genders,18 to 44 years,"Total, wait time - medical specialist",6.1.2.1.4,100.0
+v1793298314,Quebec,2021A000224,Both genders,18 to 44 years,"Wait time, less than 3 months",6.1.2.2.4,64.9
+v1793298321,Quebec,2021A000224,Both genders,18 to 44 years,"Wait time, 3 months to less than 6 months",6.1.2.3.4,16.7
+v1793298328,Quebec,2021A000224,Both genders,18 to 44 years,"Wait time, 6 months or more",6.1.2.4.4,18.4
+v1793298335,Quebec,2021A000224,Both genders,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,6.1.2.5.4,53.4
+v1793298342,Quebec,2021A000224,Both genders,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,6.1.2.6.4,28.4
+v1793298349,Quebec,2021A000224,Both genders,18 to 44 years,Life affected by wait time,6.1.2.7.4,66.0
+v1793298356,Quebec,2021A000224,Both genders,45 to 64 years,"Total, wait time - medical specialist",6.1.3.1.4,100.0
+v1793298363,Quebec,2021A000224,Both genders,45 to 64 years,"Wait time, less than 3 months",6.1.3.2.4,64.9
+v1793298370,Quebec,2021A000224,Both genders,45 to 64 years,"Wait time, 3 months to less than 6 months",6.1.3.3.4,10.1
+v1793298377,Quebec,2021A000224,Both genders,45 to 64 years,"Wait time, 6 months or more",6.1.3.4.4,25.0
+v1793298384,Quebec,2021A000224,Both genders,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,6.1.3.5.4,56.2
+v1793298391,Quebec,2021A000224,Both genders,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,6.1.3.6.4,27.4
+v1793298398,Quebec,2021A000224,Both genders,45 to 64 years,Life affected by wait time,6.1.3.7.4,62.1
+v1793298405,Quebec,2021A000224,Both genders,65 years and over,"Total, wait time - medical specialist",6.1.4.1.4,100.0
+v1793298412,Quebec,2021A000224,Both genders,65 years and over,"Wait time, less than 3 months",6.1.4.2.4,75.6
+v1793298419,Quebec,2021A000224,Both genders,65 years and over,"Wait time, 3 months to less than 6 months",6.1.4.3.4,10.9
+v1793298426,Quebec,2021A000224,Both genders,65 years and over,"Wait time, 6 months or more",6.1.4.4.4,13.5
+v1793298433,Quebec,2021A000224,Both genders,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,6.1.4.5.4,73.9
+v1793298440,Quebec,2021A000224,Both genders,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,6.1.4.6.4,12.1
+v1793298447,Quebec,2021A000224,Both genders,65 years and over,Life affected by wait time,6.1.4.7.4,49.1
+v1793298454,Quebec,2021A000224,Men+,"Total, 18 years and over","Total, wait time - medical specialist",6.2.1.1.4,100.0
+v1793298461,Quebec,2021A000224,Men+,"Total, 18 years and over","Wait time, less than 3 months",6.2.1.2.4,67.0
+v1793298468,Quebec,2021A000224,Men+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",6.2.1.3.4,15.5
+v1793298475,Quebec,2021A000224,Men+,"Total, 18 years and over","Wait time, 6 months or more",6.2.1.4.4,17.5
+v1793298482,Quebec,2021A000224,Men+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,6.2.1.5.4,61.9
+v1793298489,Quebec,2021A000224,Men+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,6.2.1.6.4,22.2
+v1793298496,Quebec,2021A000224,Men+,"Total, 18 years and over",Life affected by wait time,6.2.1.7.4,55.9
+v1793298503,Quebec,2021A000224,Men+,18 to 44 years,"Total, wait time - medical specialist",6.2.2.1.4,100.0
+v1793298510,Quebec,2021A000224,Men+,18 to 44 years,"Wait time, less than 3 months",6.2.2.2.4,64.2
+v1793298517,Quebec,2021A000224,Men+,18 to 44 years,"Wait time, 3 months to less than 6 months",6.2.2.3.4,20.0
+v1793298524,Quebec,2021A000224,Men+,18 to 44 years,"Wait time, 6 months or more",6.2.2.4.4,15.7
+v1793298531,Quebec,2021A000224,Men+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,6.2.2.5.4,51.6
+v1793298538,Quebec,2021A000224,Men+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,6.2.2.6.4,28.8
+v1793298545,Quebec,2021A000224,Men+,18 to 44 years,Life affected by wait time,6.2.2.7.4,65.7
+v1793298552,Quebec,2021A000224,Men+,45 to 64 years,"Total, wait time - medical specialist",6.2.3.1.4,100.0
+v1793298559,Quebec,2021A000224,Men+,45 to 64 years,"Wait time, less than 3 months",6.2.3.2.4,61.5
+v1793298566,Quebec,2021A000224,Men+,45 to 64 years,"Wait time, 3 months to less than 6 months",6.2.3.3.4,12.3
+v1793298573,Quebec,2021A000224,Men+,45 to 64 years,"Wait time, 6 months or more",6.2.3.4.4,26.2
+v1793298580,Quebec,2021A000224,Men+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,6.2.3.5.4,57.3
+v1793298587,Quebec,2021A000224,Men+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,6.2.3.6.4,27.8
+v1793298594,Quebec,2021A000224,Men+,45 to 64 years,Life affected by wait time,6.2.3.7.4,58.4
+v1793298601,Quebec,2021A000224,Men+,65 years and over,"Total, wait time - medical specialist",6.2.4.1.4,100.0
+v1793298608,Quebec,2021A000224,Men+,65 years and over,"Wait time, less than 3 months",6.2.4.2.4,74.5
+v1793298615,Quebec,2021A000224,Men+,65 years and over,"Wait time, 3 months to less than 6 months",6.2.4.3.4,14.5
+v1793298622,Quebec,2021A000224,Men+,65 years and over,"Wait time, 6 months or more",6.2.4.4.4,11.0
+v1793298629,Quebec,2021A000224,Men+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,6.2.4.5.4,74.8
+v1793298636,Quebec,2021A000224,Men+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,6.2.4.6.4,11.6
+v1793298643,Quebec,2021A000224,Men+,65 years and over,Life affected by wait time,6.2.4.7.4,44.9
+v1793298650,Quebec,2021A000224,Women+,"Total, 18 years and over","Total, wait time - medical specialist",6.3.1.1.4,100.0
+v1793298657,Quebec,2021A000224,Women+,"Total, 18 years and over","Wait time, less than 3 months",6.3.1.2.4,69.3
+v1793298664,Quebec,2021A000224,Women+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",6.3.1.3.4,10.2
+v1793298671,Quebec,2021A000224,Women+,"Total, 18 years and over","Wait time, 6 months or more",6.3.1.4.4,20.4
+v1793298678,Quebec,2021A000224,Women+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,6.3.1.5.4,60.0
+v1793298685,Quebec,2021A000224,Women+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,6.3.1.6.4,23.4
+v1793298692,Quebec,2021A000224,Women+,"Total, 18 years and over",Life affected by wait time,6.3.1.7.4,62.2
+v1793298699,Quebec,2021A000224,Women+,18 to 44 years,"Total, wait time - medical specialist",6.3.2.1.4,100.0
+v1793298706,Quebec,2021A000224,Women+,18 to 44 years,"Wait time, less than 3 months",6.3.2.2.4,65.4
+v1793298713,Quebec,2021A000224,Women+,18 to 44 years,"Wait time, 3 months to less than 6 months",6.3.2.3.4,14.4
+v1793298720,Quebec,2021A000224,Women+,18 to 44 years,"Wait time, 6 months or more",6.3.2.4.4,20.2
+v1793298727,Quebec,2021A000224,Women+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,6.3.2.5.4,54.6
+v1793298734,Quebec,2021A000224,Women+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,6.3.2.6.4,28.1
+v1793298741,Quebec,2021A000224,Women+,18 to 44 years,Life affected by wait time,6.3.2.7.4,66.2
+v1793298748,Quebec,2021A000224,Women+,45 to 64 years,"Total, wait time - medical specialist",6.3.3.1.4,100.0
+v1793298755,Quebec,2021A000224,Women+,45 to 64 years,"Wait time, less than 3 months",6.3.3.2.4,67.6
+v1793298762,Quebec,2021A000224,Women+,45 to 64 years,"Wait time, 3 months to less than 6 months",6.3.3.3.4,8.3
+v1793298769,Quebec,2021A000224,Women+,45 to 64 years,"Wait time, 6 months or more",6.3.3.4.4,24.1
+v1793298776,Quebec,2021A000224,Women+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,6.3.3.5.4,55.3
+v1793298783,Quebec,2021A000224,Women+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,6.3.3.6.4,27.2
+v1793298790,Quebec,2021A000224,Women+,45 to 64 years,Life affected by wait time,6.3.3.7.4,64.9
+v1793298797,Quebec,2021A000224,Women+,65 years and over,"Total, wait time - medical specialist",6.3.4.1.4,100.0
+v1793298804,Quebec,2021A000224,Women+,65 years and over,"Wait time, less than 3 months",6.3.4.2.4,76.8
+v1793298811,Quebec,2021A000224,Women+,65 years and over,"Wait time, 3 months to less than 6 months",6.3.4.3.4,7.0
+v1793298818,Quebec,2021A000224,Women+,65 years and over,"Wait time, 6 months or more",6.3.4.4.4,16.1
+v1793298825,Quebec,2021A000224,Women+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,6.3.4.5.4,72.9
+v1793298832,Quebec,2021A000224,Women+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,6.3.4.6.4,12.7
+v1793298839,Quebec,2021A000224,Women+,65 years and over,Life affected by wait time,6.3.4.7.4,53.5
+v1793298846,Ontario,2021A000235,Both genders,"Total, 18 years and over","Total, wait time - medical specialist",7.1.1.1.4,100.0
+v1793298853,Ontario,2021A000235,Both genders,"Total, 18 years and over","Wait time, less than 3 months",7.1.1.2.4,64.1
+v1793298860,Ontario,2021A000235,Both genders,"Total, 18 years and over","Wait time, 3 months to less than 6 months",7.1.1.3.4,19.5
+v1793298867,Ontario,2021A000235,Both genders,"Total, 18 years and over","Wait time, 6 months or more",7.1.1.4.4,16.4
+v1793298874,Ontario,2021A000235,Both genders,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,7.1.1.5.4,45.6
+v1793298881,Ontario,2021A000235,Both genders,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,7.1.1.6.4,34.2
+v1793298888,Ontario,2021A000235,Both genders,"Total, 18 years and over",Life affected by wait time,7.1.1.7.4,63.9
+v1793298895,Ontario,2021A000235,Both genders,18 to 44 years,"Total, wait time - medical specialist",7.1.2.1.4,100.0
+v1793298902,Ontario,2021A000235,Both genders,18 to 44 years,"Wait time, less than 3 months",7.1.2.2.4,60.0
+v1793298909,Ontario,2021A000235,Both genders,18 to 44 years,"Wait time, 3 months to less than 6 months",7.1.2.3.4,22.1
+v1793298916,Ontario,2021A000235,Both genders,18 to 44 years,"Wait time, 6 months or more",7.1.2.4.4,17.9
+v1793298923,Ontario,2021A000235,Both genders,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,7.1.2.5.4,39.7
+v1793298930,Ontario,2021A000235,Both genders,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,7.1.2.6.4,42.6
+v1793298937,Ontario,2021A000235,Both genders,18 to 44 years,Life affected by wait time,7.1.2.7.4,66.2
+v1793298944,Ontario,2021A000235,Both genders,45 to 64 years,"Total, wait time - medical specialist",7.1.3.1.4,100.0
+v1793298951,Ontario,2021A000235,Both genders,45 to 64 years,"Wait time, less than 3 months",7.1.3.2.4,65.8
+v1793298958,Ontario,2021A000235,Both genders,45 to 64 years,"Wait time, 3 months to less than 6 months",7.1.3.3.4,17.6
+v1793298965,Ontario,2021A000235,Both genders,45 to 64 years,"Wait time, 6 months or more",7.1.3.4.4,16.6
+v1793298972,Ontario,2021A000235,Both genders,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,7.1.3.5.4,45.4
+v1793298979,Ontario,2021A000235,Both genders,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,7.1.3.6.4,32.4
+v1793298986,Ontario,2021A000235,Both genders,45 to 64 years,Life affected by wait time,7.1.3.7.4,67.6
+v1793298993,Ontario,2021A000235,Both genders,65 years and over,"Total, wait time - medical specialist",7.1.4.1.4,100.0
+v1793299000,Ontario,2021A000235,Both genders,65 years and over,"Wait time, less than 3 months",7.1.4.2.4,68.0
+v1793299007,Ontario,2021A000235,Both genders,65 years and over,"Wait time, 3 months to less than 6 months",7.1.4.3.4,18.0
+v1793299014,Ontario,2021A000235,Both genders,65 years and over,"Wait time, 6 months or more",7.1.4.4.4,14.0
+v1793299021,Ontario,2021A000235,Both genders,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,7.1.4.5.4,54.2
+v1793299028,Ontario,2021A000235,Both genders,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,7.1.4.6.4,24.3
+v1793299035,Ontario,2021A000235,Both genders,65 years and over,Life affected by wait time,7.1.4.7.4,56.6
+v1793299042,Ontario,2021A000235,Men+,"Total, 18 years and over","Total, wait time - medical specialist",7.2.1.1.4,100.0
+v1793299049,Ontario,2021A000235,Men+,"Total, 18 years and over","Wait time, less than 3 months",7.2.1.2.4,66.3
+v1793299056,Ontario,2021A000235,Men+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",7.2.1.3.4,19.8
+v1793299063,Ontario,2021A000235,Men+,"Total, 18 years and over","Wait time, 6 months or more",7.2.1.4.4,13.8
+v1793299070,Ontario,2021A000235,Men+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,7.2.1.5.4,45.7
+v1793299077,Ontario,2021A000235,Men+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,7.2.1.6.4,35.7
+v1793299084,Ontario,2021A000235,Men+,"Total, 18 years and over",Life affected by wait time,7.2.1.7.4,64.8
+v1793299091,Ontario,2021A000235,Men+,18 to 44 years,"Total, wait time - medical specialist",7.2.2.1.4,100.0
+v1793299098,Ontario,2021A000235,Men+,18 to 44 years,"Wait time, less than 3 months",7.2.2.2.4,56.1
+v1793299105,Ontario,2021A000235,Men+,18 to 44 years,"Wait time, 3 months to less than 6 months",7.2.2.3.4,26.6
+v1793299112,Ontario,2021A000235,Men+,18 to 44 years,"Wait time, 6 months or more",7.2.2.4.4,17.3
+v1793299119,Ontario,2021A000235,Men+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,7.2.2.5.4,36.4
+v1793299126,Ontario,2021A000235,Men+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,7.2.2.6.4,49.5
+v1793299133,Ontario,2021A000235,Men+,18 to 44 years,Life affected by wait time,7.2.2.7.4,69.8
+v1793299140,Ontario,2021A000235,Men+,45 to 64 years,"Total, wait time - medical specialist",7.2.3.1.4,100.0
+v1793299147,Ontario,2021A000235,Men+,45 to 64 years,"Wait time, less than 3 months",7.2.3.2.4,72.7
+v1793299154,Ontario,2021A000235,Men+,45 to 64 years,"Wait time, 3 months to less than 6 months",7.2.3.3.4,15.2
+v1793299161,Ontario,2021A000235,Men+,45 to 64 years,"Wait time, 6 months or more",7.2.3.4.4,12.2
+v1793299168,Ontario,2021A000235,Men+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,7.2.3.5.4,49.2
+v1793299175,Ontario,2021A000235,Men+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,7.2.3.6.4,29.1
+v1793299182,Ontario,2021A000235,Men+,45 to 64 years,Life affected by wait time,7.2.3.7.4,66.3
+v1793299189,Ontario,2021A000235,Men+,65 years and over,"Total, wait time - medical specialist",7.2.4.1.4,100.0
+v1793299196,Ontario,2021A000235,Men+,65 years and over,"Wait time, less than 3 months",7.2.4.2.4,73.4
+v1793299203,Ontario,2021A000235,Men+,65 years and over,"Wait time, 3 months to less than 6 months",7.2.4.3.4,15.7
+v1793299210,Ontario,2021A000235,Men+,65 years and over,"Wait time, 6 months or more",7.2.4.4.4,10.9
+v1793299217,Ontario,2021A000235,Men+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,7.2.4.5.4,54.3
+v1793299224,Ontario,2021A000235,Men+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,7.2.4.6.4,24.6
+v1793299231,Ontario,2021A000235,Men+,65 years and over,Life affected by wait time,7.2.4.7.4,56.7
+v1793299238,Ontario,2021A000235,Women+,"Total, 18 years and over","Total, wait time - medical specialist",7.3.1.1.4,100.0
+v1793299245,Ontario,2021A000235,Women+,"Total, 18 years and over","Wait time, less than 3 months",7.3.1.2.4,62.1
+v1793299252,Ontario,2021A000235,Women+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",7.3.1.3.4,19.2
+v1793299259,Ontario,2021A000235,Women+,"Total, 18 years and over","Wait time, 6 months or more",7.3.1.4.4,18.7
+v1793299266,Ontario,2021A000235,Women+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,7.3.1.5.4,45.5
+v1793299273,Ontario,2021A000235,Women+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,7.3.1.6.4,32.8
+v1793299280,Ontario,2021A000235,Women+,"Total, 18 years and over",Life affected by wait time,7.3.1.7.4,63.1
+v1793299287,Ontario,2021A000235,Women+,18 to 44 years,"Total, wait time - medical specialist",7.3.2.1.4,100.0
+v1793299294,Ontario,2021A000235,Women+,18 to 44 years,"Wait time, less than 3 months",7.3.2.2.4,63.5
+v1793299301,Ontario,2021A000235,Women+,18 to 44 years,"Wait time, 3 months to less than 6 months",7.3.2.3.4,18.1
+v1793299308,Ontario,2021A000235,Women+,18 to 44 years,"Wait time, 6 months or more",7.3.2.4.4,18.4
+v1793299315,Ontario,2021A000235,Women+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,7.3.2.5.4,42.6
+v1793299322,Ontario,2021A000235,Women+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,7.3.2.6.4,36.6
+v1793299329,Ontario,2021A000235,Women+,18 to 44 years,Life affected by wait time,7.3.2.7.4,63.0
+v1793299336,Ontario,2021A000235,Women+,45 to 64 years,"Total, wait time - medical specialist",7.3.3.1.4,100.0
+v1793299343,Ontario,2021A000235,Women+,45 to 64 years,"Wait time, less than 3 months",7.3.3.2.4,59.7
+v1793299350,Ontario,2021A000235,Women+,45 to 64 years,"Wait time, 3 months to less than 6 months",7.3.3.3.4,19.8
+v1793299357,Ontario,2021A000235,Women+,45 to 64 years,"Wait time, 6 months or more",7.3.3.4.4,20.5
+v1793299364,Ontario,2021A000235,Women+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,7.3.3.5.4,42.0
+v1793299371,Ontario,2021A000235,Women+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,7.3.3.6.4,35.4
+v1793299378,Ontario,2021A000235,Women+,45 to 64 years,Life affected by wait time,7.3.3.7.4,68.9
+v1793299385,Ontario,2021A000235,Women+,65 years and over,"Total, wait time - medical specialist",7.3.4.1.4,100.0
+v1793299392,Ontario,2021A000235,Women+,65 years and over,"Wait time, less than 3 months",7.3.4.2.4,62.7
+v1793299399,Ontario,2021A000235,Women+,65 years and over,"Wait time, 3 months to less than 6 months",7.3.4.3.4,20.3
+v1793299406,Ontario,2021A000235,Women+,65 years and over,"Wait time, 6 months or more",7.3.4.4.4,17.1
+v1793299413,Ontario,2021A000235,Women+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,7.3.4.5.4,54.1
+v1793299420,Ontario,2021A000235,Women+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,7.3.4.6.4,24.0
+v1793299427,Ontario,2021A000235,Women+,65 years and over,Life affected by wait time,7.3.4.7.4,56.5
+v1793299434,Manitoba,2021A000246,Both genders,"Total, 18 years and over","Total, wait time - medical specialist",8.1.1.1.4,100.0
+v1793299441,Manitoba,2021A000246,Both genders,"Total, 18 years and over","Wait time, less than 3 months",8.1.1.2.4,60.2
+v1793299448,Manitoba,2021A000246,Both genders,"Total, 18 years and over","Wait time, 3 months to less than 6 months",8.1.1.3.4,19.3
+v1793299455,Manitoba,2021A000246,Both genders,"Total, 18 years and over","Wait time, 6 months or more",8.1.1.4.4,20.4
+v1793299462,Manitoba,2021A000246,Both genders,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,8.1.1.5.4,48.6
+v1793299469,Manitoba,2021A000246,Both genders,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,8.1.1.6.4,30.5
+v1793299476,Manitoba,2021A000246,Both genders,"Total, 18 years and over",Life affected by wait time,8.1.1.7.4,63.5
+v1793299483,Manitoba,2021A000246,Both genders,18 to 44 years,"Total, wait time - medical specialist",8.1.2.1.4,100.0
+v1793299490,Manitoba,2021A000246,Both genders,18 to 44 years,"Wait time, less than 3 months",8.1.2.2.4,64.7
+v1793299497,Manitoba,2021A000246,Both genders,18 to 44 years,"Wait time, 3 months to less than 6 months",8.1.2.3.4,14.7
+v1793299504,Manitoba,2021A000246,Both genders,18 to 44 years,"Wait time, 6 months or more",8.1.2.4.4,20.6
+v1793299511,Manitoba,2021A000246,Both genders,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,8.1.2.5.4,43.2
+v1793299518,Manitoba,2021A000246,Both genders,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,8.1.2.6.4,35.0
+v1793299525,Manitoba,2021A000246,Both genders,18 to 44 years,Life affected by wait time,8.1.2.7.4,68.6
+v1793299532,Manitoba,2021A000246,Both genders,45 to 64 years,"Total, wait time - medical specialist",8.1.3.1.4,100.0
+v1793299539,Manitoba,2021A000246,Both genders,45 to 64 years,"Wait time, less than 3 months",8.1.3.2.4,53.8
+v1793299546,Manitoba,2021A000246,Both genders,45 to 64 years,"Wait time, 3 months to less than 6 months",8.1.3.3.4,25.4
+v1793299553,Manitoba,2021A000246,Both genders,45 to 64 years,"Wait time, 6 months or more",8.1.3.4.4,20.8
+v1793299560,Manitoba,2021A000246,Both genders,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,8.1.3.5.4,44.5
+v1793299567,Manitoba,2021A000246,Both genders,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,8.1.3.6.4,31.8
+v1793299574,Manitoba,2021A000246,Both genders,45 to 64 years,Life affected by wait time,8.1.3.7.4,64.5
+v1793299581,Manitoba,2021A000246,Both genders,65 years and over,"Total, wait time - medical specialist",8.1.4.1.4,100.0
+v1793299588,Manitoba,2021A000246,Both genders,65 years and over,"Wait time, less than 3 months",8.1.4.2.4,60.8
+v1793299595,Manitoba,2021A000246,Both genders,65 years and over,"Wait time, 3 months to less than 6 months",8.1.4.3.4,19.4
+v1793299602,Manitoba,2021A000246,Both genders,65 years and over,"Wait time, 6 months or more",8.1.4.4.4,19.8
+v1793299609,Manitoba,2021A000246,Both genders,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,8.1.4.5.4,61.8
+v1793299616,Manitoba,2021A000246,Both genders,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,8.1.4.6.4,22.0
+v1793299623,Manitoba,2021A000246,Both genders,65 years and over,Life affected by wait time,8.1.4.7.4,54.5
+v1793299630,Manitoba,2021A000246,Men+,"Total, 18 years and over","Total, wait time - medical specialist",8.2.1.1.4,100.0
+v1793299637,Manitoba,2021A000246,Men+,"Total, 18 years and over","Wait time, less than 3 months",8.2.1.2.4,66.0
+v1793299644,Manitoba,2021A000246,Men+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",8.2.1.3.4,17.5
+v1793299651,Manitoba,2021A000246,Men+,"Total, 18 years and over","Wait time, 6 months or more",8.2.1.4.4,16.5
+v1793299658,Manitoba,2021A000246,Men+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,8.2.1.5.4,51.7
+v1793299665,Manitoba,2021A000246,Men+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,8.2.1.6.4,28.7
+v1793299672,Manitoba,2021A000246,Men+,"Total, 18 years and over",Life affected by wait time,8.2.1.7.4,65.4
+v1793299679,Manitoba,2021A000246,Men+,18 to 44 years,"Total, wait time - medical specialist",8.2.2.1.4,100.0
+v1793299686,Manitoba,2021A000246,Men+,18 to 44 years,"Wait time, less than 3 months",8.2.2.2.4,68.4
+v1793299693,Manitoba,2021A000246,Men+,18 to 44 years,"Wait time, 3 months to less than 6 months",8.2.2.3.4,14.5
+v1793299700,Manitoba,2021A000246,Men+,18 to 44 years,"Wait time, 6 months or more",8.2.2.4.4,17.1
+v1793299707,Manitoba,2021A000246,Men+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,8.2.2.5.4,45.1
+v1793299714,Manitoba,2021A000246,Men+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,8.2.2.6.4,33.6
+v1793299721,Manitoba,2021A000246,Men+,18 to 44 years,Life affected by wait time,8.2.2.7.4,71.6
+v1793299728,Manitoba,2021A000246,Men+,45 to 64 years,"Total, wait time - medical specialist",8.2.3.1.4,100.0
+v1793299735,Manitoba,2021A000246,Men+,45 to 64 years,"Wait time, less than 3 months",8.2.3.2.4,63.2
+v1793299742,Manitoba,2021A000246,Men+,45 to 64 years,"Wait time, 3 months to less than 6 months",8.2.3.3.4,21.9
+v1793299749,Manitoba,2021A000246,Men+,45 to 64 years,"Wait time, 6 months or more",8.2.3.4.4,15.0
+v1793299756,Manitoba,2021A000246,Men+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,8.2.3.5.4,49.6
+v1793299763,Manitoba,2021A000246,Men+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,8.2.3.6.4,30.0
+v1793299770,Manitoba,2021A000246,Men+,45 to 64 years,Life affected by wait time,8.2.3.7.4,65.4
+v1793299777,Manitoba,2021A000246,Men+,65 years and over,"Total, wait time - medical specialist",8.2.4.1.4,100.0
+v1793299784,Manitoba,2021A000246,Men+,65 years and over,"Wait time, less than 3 months",8.2.4.2.4,65.8
+v1793299791,Manitoba,2021A000246,Men+,65 years and over,"Wait time, 3 months to less than 6 months",8.2.4.3.4,17.0
+v1793299798,Manitoba,2021A000246,Men+,65 years and over,"Wait time, 6 months or more",8.2.4.4.4,17.2
+v1793299805,Manitoba,2021A000246,Men+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,8.2.4.5.4,62.6
+v1793299812,Manitoba,2021A000246,Men+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,8.2.4.6.4,20.7
+v1793299819,Manitoba,2021A000246,Men+,65 years and over,Life affected by wait time,8.2.4.7.4,56.9
+v1793299826,Manitoba,2021A000246,Women+,"Total, 18 years and over","Total, wait time - medical specialist",8.3.1.1.4,100.0
+v1793299833,Manitoba,2021A000246,Women+,"Total, 18 years and over","Wait time, less than 3 months",8.3.1.2.4,55.4
+v1793299840,Manitoba,2021A000246,Women+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",8.3.1.3.4,20.9
+v1793299847,Manitoba,2021A000246,Women+,"Total, 18 years and over","Wait time, 6 months or more",8.3.1.4.4,23.8
+v1793299854,Manitoba,2021A000246,Women+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,8.3.1.5.4,46.1
+v1793299861,Manitoba,2021A000246,Women+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,8.3.1.6.4,32.0
+v1793299868,Manitoba,2021A000246,Women+,"Total, 18 years and over",Life affected by wait time,8.3.1.7.4,61.9
+v1793299875,Manitoba,2021A000246,Women+,18 to 44 years,"Total, wait time - medical specialist",8.3.2.1.4,100.0
+v1793299882,Manitoba,2021A000246,Women+,18 to 44 years,"Wait time, less than 3 months",8.3.2.2.4,61.9
+v1793299889,Manitoba,2021A000246,Women+,18 to 44 years,"Wait time, 3 months to less than 6 months",8.3.2.3.4,14.9
+v1793299896,Manitoba,2021A000246,Women+,18 to 44 years,"Wait time, 6 months or more",8.3.2.4.4,23.3
+v1793299903,Manitoba,2021A000246,Women+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,8.3.2.5.4,41.6
+v1793299910,Manitoba,2021A000246,Women+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,8.3.2.6.4,36.1
+v1793299917,Manitoba,2021A000246,Women+,18 to 44 years,Life affected by wait time,8.3.2.7.4,66.2
+v1793299924,Manitoba,2021A000246,Women+,45 to 64 years,"Total, wait time - medical specialist",8.3.3.1.4,100.0
+v1793299931,Manitoba,2021A000246,Women+,45 to 64 years,"Wait time, less than 3 months",8.3.3.2.4,46.2
+v1793299938,Manitoba,2021A000246,Women+,45 to 64 years,"Wait time, 3 months to less than 6 months",8.3.3.3.4,28.3
+v1793299945,Manitoba,2021A000246,Women+,45 to 64 years,"Wait time, 6 months or more",8.3.3.4.4,25.5
+v1793299952,Manitoba,2021A000246,Women+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,8.3.3.5.4,40.4
+v1793299959,Manitoba,2021A000246,Women+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,8.3.3.6.4,33.3
+v1793299966,Manitoba,2021A000246,Women+,45 to 64 years,Life affected by wait time,8.3.3.7.4,63.8
+v1793299973,Manitoba,2021A000246,Women+,65 years and over,"Total, wait time - medical specialist",8.3.4.1.4,100.0
+v1793299980,Manitoba,2021A000246,Women+,65 years and over,"Wait time, less than 3 months",8.3.4.2.4,55.8
+v1793299987,Manitoba,2021A000246,Women+,65 years and over,"Wait time, 3 months to less than 6 months",8.3.4.3.4,21.8
+v1793299994,Manitoba,2021A000246,Women+,65 years and over,"Wait time, 6 months or more",8.3.4.4.4,22.4
+v1793300001,Manitoba,2021A000246,Women+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,8.3.4.5.4,61.0
+v1793300008,Manitoba,2021A000246,Women+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,8.3.4.6.4,23.3
+v1793300015,Manitoba,2021A000246,Women+,65 years and over,Life affected by wait time,8.3.4.7.4,52.2
+v1793300022,Saskatchewan,2021A000247,Both genders,"Total, 18 years and over","Total, wait time - medical specialist",9.1.1.1.4,100.0
+v1793300029,Saskatchewan,2021A000247,Both genders,"Total, 18 years and over","Wait time, less than 3 months",9.1.1.2.4,61.8
+v1793300036,Saskatchewan,2021A000247,Both genders,"Total, 18 years and over","Wait time, 3 months to less than 6 months",9.1.1.3.4,19.3
+v1793300043,Saskatchewan,2021A000247,Both genders,"Total, 18 years and over","Wait time, 6 months or more",9.1.1.4.4,18.9
+v1793300050,Saskatchewan,2021A000247,Both genders,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,9.1.1.5.4,48.5
+v1793300057,Saskatchewan,2021A000247,Both genders,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,9.1.1.6.4,31.0
+v1793300064,Saskatchewan,2021A000247,Both genders,"Total, 18 years and over",Life affected by wait time,9.1.1.7.4,69.5
+v1793300071,Saskatchewan,2021A000247,Both genders,18 to 44 years,"Total, wait time - medical specialist",9.1.2.1.4,100.0
+v1793300078,Saskatchewan,2021A000247,Both genders,18 to 44 years,"Wait time, less than 3 months",9.1.2.2.4,59.4
+v1793300085,Saskatchewan,2021A000247,Both genders,18 to 44 years,"Wait time, 3 months to less than 6 months",9.1.2.3.4,21.2
+v1793300092,Saskatchewan,2021A000247,Both genders,18 to 44 years,"Wait time, 6 months or more",9.1.2.4.4,19.4
+v1793300099,Saskatchewan,2021A000247,Both genders,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,9.1.2.5.4,37.2
+v1793300106,Saskatchewan,2021A000247,Both genders,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,9.1.2.6.4,39.1
+v1793300113,Saskatchewan,2021A000247,Both genders,18 to 44 years,Life affected by wait time,9.1.2.7.4,77.2
+v1793300120,Saskatchewan,2021A000247,Both genders,45 to 64 years,"Total, wait time - medical specialist",9.1.3.1.4,100.0
+v1793300127,Saskatchewan,2021A000247,Both genders,45 to 64 years,"Wait time, less than 3 months",9.1.3.2.4,58.4
+v1793300134,Saskatchewan,2021A000247,Both genders,45 to 64 years,"Wait time, 3 months to less than 6 months",9.1.3.3.4,19.4
+v1793300141,Saskatchewan,2021A000247,Both genders,45 to 64 years,"Wait time, 6 months or more",9.1.3.4.4,22.2
+v1793300148,Saskatchewan,2021A000247,Both genders,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,9.1.3.5.4,46.1
+v1793300155,Saskatchewan,2021A000247,Both genders,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,9.1.3.6.4,34.1
+v1793300162,Saskatchewan,2021A000247,Both genders,45 to 64 years,Life affected by wait time,9.1.3.7.4,69.9
+v1793300169,Saskatchewan,2021A000247,Both genders,65 years and over,"Total, wait time - medical specialist",9.1.4.1.4,100.0
+v1793300176,Saskatchewan,2021A000247,Both genders,65 years and over,"Wait time, less than 3 months",9.1.4.2.4,68.7
+v1793300183,Saskatchewan,2021A000247,Both genders,65 years and over,"Wait time, 3 months to less than 6 months",9.1.4.3.4,16.6
+v1793300190,Saskatchewan,2021A000247,Both genders,65 years and over,"Wait time, 6 months or more",9.1.4.4.4,14.7
+v1793300197,Saskatchewan,2021A000247,Both genders,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,9.1.4.5.4,67.0
+v1793300204,Saskatchewan,2021A000247,Both genders,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,9.1.4.6.4,16.1
+v1793300211,Saskatchewan,2021A000247,Both genders,65 years and over,Life affected by wait time,9.1.4.7.4,58.0
+v1793300218,Saskatchewan,2021A000247,Men+,"Total, 18 years and over","Total, wait time - medical specialist",9.2.1.1.4,100.0
+v1793300225,Saskatchewan,2021A000247,Men+,"Total, 18 years and over","Wait time, less than 3 months",9.2.1.2.4,64.9
+v1793300232,Saskatchewan,2021A000247,Men+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",9.2.1.3.4,18.3
+v1793300239,Saskatchewan,2021A000247,Men+,"Total, 18 years and over","Wait time, 6 months or more",9.2.1.4.4,16.8
+v1793300246,Saskatchewan,2021A000247,Men+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,9.2.1.5.4,55.0
+v1793300253,Saskatchewan,2021A000247,Men+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,9.2.1.6.4,26.7
+v1793300260,Saskatchewan,2021A000247,Men+,"Total, 18 years and over",Life affected by wait time,9.2.1.7.4,67.0
+v1793300267,Saskatchewan,2021A000247,Men+,18 to 44 years,"Total, wait time - medical specialist",9.2.2.1.4,100.0
+v1793300274,Saskatchewan,2021A000247,Men+,18 to 44 years,"Wait time, less than 3 months",9.2.2.2.4,60.9
+v1793300281,Saskatchewan,2021A000247,Men+,18 to 44 years,"Wait time, 3 months to less than 6 months",9.2.2.3.4,21.1
+v1793300288,Saskatchewan,2021A000247,Men+,18 to 44 years,"Wait time, 6 months or more",9.2.2.4.4,18.0
+v1793300295,Saskatchewan,2021A000247,Men+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,9.2.2.5.4,44.0
+v1793300302,Saskatchewan,2021A000247,Men+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,9.2.2.6.4,37.5
+v1793300309,Saskatchewan,2021A000247,Men+,18 to 44 years,Life affected by wait time,9.2.2.7.4,75.9
+v1793300316,Saskatchewan,2021A000247,Men+,45 to 64 years,"Total, wait time - medical specialist",9.2.3.1.4,100.0
+v1793300323,Saskatchewan,2021A000247,Men+,45 to 64 years,"Wait time, less than 3 months",9.2.3.2.4,59.8
+v1793300330,Saskatchewan,2021A000247,Men+,45 to 64 years,"Wait time, 3 months to less than 6 months",9.2.3.3.4,20.2
+v1793300337,Saskatchewan,2021A000247,Men+,45 to 64 years,"Wait time, 6 months or more",9.2.3.4.4,20.0
+v1793300344,Saskatchewan,2021A000247,Men+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,9.2.3.5.4,48.3
+v1793300351,Saskatchewan,2021A000247,Men+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,9.2.3.6.4,29.0
+v1793300358,Saskatchewan,2021A000247,Men+,45 to 64 years,Life affected by wait time,9.2.3.7.4,68.7
+v1793300365,Saskatchewan,2021A000247,Men+,65 years and over,"Total, wait time - medical specialist",9.2.4.1.4,100.0
+v1793300372,Saskatchewan,2021A000247,Men+,65 years and over,"Wait time, less than 3 months",9.2.4.2.4,74.3
+v1793300379,Saskatchewan,2021A000247,Men+,65 years and over,"Wait time, 3 months to less than 6 months",9.2.4.3.4,13.3
+v1793300386,Saskatchewan,2021A000247,Men+,65 years and over,"Wait time, 6 months or more",9.2.4.4.4,12.4
+v1793300393,Saskatchewan,2021A000247,Men+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,9.2.4.5.4,73.8
+v1793300400,Saskatchewan,2021A000247,Men+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,9.2.4.6.4,12.3
+v1793300407,Saskatchewan,2021A000247,Men+,65 years and over,Life affected by wait time,9.2.4.7.4,55.2
+v1793300414,Saskatchewan,2021A000247,Women+,"Total, 18 years and over","Total, wait time - medical specialist",9.3.1.1.4,100.0
+v1793300421,Saskatchewan,2021A000247,Women+,"Total, 18 years and over","Wait time, less than 3 months",9.3.1.2.4,59.5
+v1793300428,Saskatchewan,2021A000247,Women+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",9.3.1.3.4,20.1
+v1793300435,Saskatchewan,2021A000247,Women+,"Total, 18 years and over","Wait time, 6 months or more",9.3.1.4.4,20.5
+v1793300442,Saskatchewan,2021A000247,Women+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,9.3.1.5.4,43.6
+v1793300449,Saskatchewan,2021A000247,Women+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,9.3.1.6.4,34.1
+v1793300456,Saskatchewan,2021A000247,Women+,"Total, 18 years and over",Life affected by wait time,9.3.1.7.4,71.3
+v1793300463,Saskatchewan,2021A000247,Women+,18 to 44 years,"Total, wait time - medical specialist",9.3.2.1.4,100.0
+v1793300470,Saskatchewan,2021A000247,Women+,18 to 44 years,"Wait time, less than 3 months",9.3.2.2.4,58.5
+v1793300477,Saskatchewan,2021A000247,Women+,18 to 44 years,"Wait time, 3 months to less than 6 months",9.3.2.3.4,21.2
+v1793300484,Saskatchewan,2021A000247,Women+,18 to 44 years,"Wait time, 6 months or more",9.3.2.4.4,20.3
+v1793300491,Saskatchewan,2021A000247,Women+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,9.3.2.5.4,32.9
+v1793300498,Saskatchewan,2021A000247,Women+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,9.3.2.6.4,40.2
+v1793300505,Saskatchewan,2021A000247,Women+,18 to 44 years,Life affected by wait time,9.3.2.7.4,77.9
+v1793300512,Saskatchewan,2021A000247,Women+,45 to 64 years,"Total, wait time - medical specialist",9.3.3.1.4,100.0
+v1793300519,Saskatchewan,2021A000247,Women+,45 to 64 years,"Wait time, less than 3 months",9.3.3.2.4,57.3
+v1793300526,Saskatchewan,2021A000247,Women+,45 to 64 years,"Wait time, 3 months to less than 6 months",9.3.3.3.4,18.8
+v1793300533,Saskatchewan,2021A000247,Women+,45 to 64 years,"Wait time, 6 months or more",9.3.3.4.4,23.9
+v1793300540,Saskatchewan,2021A000247,Women+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,9.3.3.5.4,44.5
+v1793300547,Saskatchewan,2021A000247,Women+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,9.3.3.6.4,38.0
+v1793300554,Saskatchewan,2021A000247,Women+,45 to 64 years,Life affected by wait time,9.3.3.7.4,70.9
+v1793300561,Saskatchewan,2021A000247,Women+,65 years and over,"Total, wait time - medical specialist",9.3.4.1.4,100.0
+v1793300568,Saskatchewan,2021A000247,Women+,65 years and over,"Wait time, less than 3 months",9.3.4.2.4,63.6
+v1793300575,Saskatchewan,2021A000247,Women+,65 years and over,"Wait time, 3 months to less than 6 months",9.3.4.3.4,19.7
+v1793300582,Saskatchewan,2021A000247,Women+,65 years and over,"Wait time, 6 months or more",9.3.4.4.4,16.7
+v1793300589,Saskatchewan,2021A000247,Women+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,9.3.4.5.4,60.7
+v1793300596,Saskatchewan,2021A000247,Women+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,9.3.4.6.4,19.5
+v1793300603,Saskatchewan,2021A000247,Women+,65 years and over,Life affected by wait time,9.3.4.7.4,60.5
+v1793300610,Alberta,2021A000248,Both genders,"Total, 18 years and over","Total, wait time - medical specialist",10.1.1.1.4,100.0
+v1793300617,Alberta,2021A000248,Both genders,"Total, 18 years and over","Wait time, less than 3 months",10.1.1.2.4,62.5
+v1793300624,Alberta,2021A000248,Both genders,"Total, 18 years and over","Wait time, 3 months to less than 6 months",10.1.1.3.4,17.7
+v1793300631,Alberta,2021A000248,Both genders,"Total, 18 years and over","Wait time, 6 months or more",10.1.1.4.4,19.8
+v1793300638,Alberta,2021A000248,Both genders,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,10.1.1.5.4,45.7
+v1793300645,Alberta,2021A000248,Both genders,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,10.1.1.6.4,33.4
+v1793300652,Alberta,2021A000248,Both genders,"Total, 18 years and over",Life affected by wait time,10.1.1.7.4,66.2
+v1793300659,Alberta,2021A000248,Both genders,18 to 44 years,"Total, wait time - medical specialist",10.1.2.1.4,100.0
+v1793300666,Alberta,2021A000248,Both genders,18 to 44 years,"Wait time, less than 3 months",10.1.2.2.4,64.5
+v1793300673,Alberta,2021A000248,Both genders,18 to 44 years,"Wait time, 3 months to less than 6 months",10.1.2.3.4,16.4
+v1793300680,Alberta,2021A000248,Both genders,18 to 44 years,"Wait time, 6 months or more",10.1.2.4.4,19.1
+v1793300687,Alberta,2021A000248,Both genders,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,10.1.2.5.4,40.5
+v1793300694,Alberta,2021A000248,Both genders,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,10.1.2.6.4,37.6
+v1793300701,Alberta,2021A000248,Both genders,18 to 44 years,Life affected by wait time,10.1.2.7.4,66.3
+v1793300708,Alberta,2021A000248,Both genders,45 to 64 years,"Total, wait time - medical specialist",10.1.3.1.4,100.0
+v1793300715,Alberta,2021A000248,Both genders,45 to 64 years,"Wait time, less than 3 months",10.1.3.2.4,57.1
+v1793300722,Alberta,2021A000248,Both genders,45 to 64 years,"Wait time, 3 months to less than 6 months",10.1.3.3.4,19.2
+v1793300729,Alberta,2021A000248,Both genders,45 to 64 years,"Wait time, 6 months or more",10.1.3.4.4,23.7
+v1793300736,Alberta,2021A000248,Both genders,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,10.1.3.5.4,43.9
+v1793300743,Alberta,2021A000248,Both genders,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,10.1.3.6.4,34.8
+v1793300750,Alberta,2021A000248,Both genders,45 to 64 years,Life affected by wait time,10.1.3.7.4,69.3
+v1793300757,Alberta,2021A000248,Both genders,65 years and over,"Total, wait time - medical specialist",10.1.4.1.4,100.0
+v1793300764,Alberta,2021A000248,Both genders,65 years and over,"Wait time, less than 3 months",10.1.4.2.4,65.8
+v1793300771,Alberta,2021A000248,Both genders,65 years and over,"Wait time, 3 months to less than 6 months",10.1.4.3.4,18.1
+v1793300778,Alberta,2021A000248,Both genders,65 years and over,"Wait time, 6 months or more",10.1.4.4.4,16.1
+v1793300785,Alberta,2021A000248,Both genders,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,10.1.4.5.4,57.2
+v1793300792,Alberta,2021A000248,Both genders,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,10.1.4.6.4,24.0
+v1793300799,Alberta,2021A000248,Both genders,65 years and over,Life affected by wait time,10.1.4.7.4,61.9
+v1793300806,Alberta,2021A000248,Men+,"Total, 18 years and over","Total, wait time - medical specialist",10.2.1.1.4,100.0
+v1793300813,Alberta,2021A000248,Men+,"Total, 18 years and over","Wait time, less than 3 months",10.2.1.2.4,65.4
+v1793300820,Alberta,2021A000248,Men+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",10.2.1.3.4,16.8
+v1793300827,Alberta,2021A000248,Men+,"Total, 18 years and over","Wait time, 6 months or more",10.2.1.4.4,17.8
+v1793300834,Alberta,2021A000248,Men+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,10.2.1.5.4,48.3
+v1793300841,Alberta,2021A000248,Men+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,10.2.1.6.4,31.7
+v1793300848,Alberta,2021A000248,Men+,"Total, 18 years and over",Life affected by wait time,10.2.1.7.4,65.4
+v1793300855,Alberta,2021A000248,Men+,18 to 44 years,"Total, wait time - medical specialist",10.2.2.1.4,100.0
+v1793300862,Alberta,2021A000248,Men+,18 to 44 years,"Wait time, less than 3 months",10.2.2.2.4,67.8
+v1793300869,Alberta,2021A000248,Men+,18 to 44 years,"Wait time, 3 months to less than 6 months",10.2.2.3.4,15.8
+v1793300876,Alberta,2021A000248,Men+,18 to 44 years,"Wait time, 6 months or more",10.2.2.4.4,16.4
+v1793300883,Alberta,2021A000248,Men+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,10.2.2.5.4,38.6
+v1793300890,Alberta,2021A000248,Men+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,10.2.2.6.4,35.6
+v1793300897,Alberta,2021A000248,Men+,18 to 44 years,Life affected by wait time,10.2.2.7.4,64.9
+v1793300904,Alberta,2021A000248,Men+,45 to 64 years,"Total, wait time - medical specialist",10.2.3.1.4,100.0
+v1793300911,Alberta,2021A000248,Men+,45 to 64 years,"Wait time, less than 3 months",10.2.3.2.4,62.3
+v1793300918,Alberta,2021A000248,Men+,45 to 64 years,"Wait time, 3 months to less than 6 months",10.2.3.3.4,18.8
+v1793300925,Alberta,2021A000248,Men+,45 to 64 years,"Wait time, 6 months or more",10.2.3.4.4,18.9
+v1793300932,Alberta,2021A000248,Men+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,10.2.3.5.4,50.0
+v1793300939,Alberta,2021A000248,Men+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,10.2.3.6.4,33.0
+v1793300946,Alberta,2021A000248,Men+,45 to 64 years,Life affected by wait time,10.2.3.7.4,66.1
+v1793300953,Alberta,2021A000248,Men+,65 years and over,"Total, wait time - medical specialist",10.2.4.1.4,100.0
+v1793300960,Alberta,2021A000248,Men+,65 years and over,"Wait time, less than 3 months",10.2.4.2.4,65.1
+v1793300967,Alberta,2021A000248,Men+,65 years and over,"Wait time, 3 months to less than 6 months",10.2.4.3.4,16.1
+v1793300974,Alberta,2021A000248,Men+,65 years and over,"Wait time, 6 months or more",10.2.4.4.4,18.8
+v1793300981,Alberta,2021A000248,Men+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,10.2.4.5.4,61.3
+v1793300988,Alberta,2021A000248,Men+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,10.2.4.6.4,24.0
+v1793300995,Alberta,2021A000248,Men+,65 years and over,Life affected by wait time,10.2.4.7.4,65.6
+v1793301002,Alberta,2021A000248,Women+,"Total, 18 years and over","Total, wait time - medical specialist",10.3.1.1.4,100.0
+v1793301009,Alberta,2021A000248,Women+,"Total, 18 years and over","Wait time, less than 3 months",10.3.1.2.4,60.3
+v1793301016,Alberta,2021A000248,Women+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",10.3.1.3.4,18.4
+v1793301023,Alberta,2021A000248,Women+,"Total, 18 years and over","Wait time, 6 months or more",10.3.1.4.4,21.3
+v1793301030,Alberta,2021A000248,Women+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,10.3.1.5.4,43.6
+v1793301037,Alberta,2021A000248,Women+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,10.3.1.6.4,34.7
+v1793301044,Alberta,2021A000248,Women+,"Total, 18 years and over",Life affected by wait time,10.3.1.7.4,66.8
+v1793301051,Alberta,2021A000248,Women+,18 to 44 years,"Total, wait time - medical specialist",10.3.2.1.4,100.0
+v1793301058,Alberta,2021A000248,Women+,18 to 44 years,"Wait time, less than 3 months",10.3.2.2.4,62.2
+v1793301065,Alberta,2021A000248,Women+,18 to 44 years,"Wait time, 3 months to less than 6 months",10.3.2.3.4,16.9
+v1793301072,Alberta,2021A000248,Women+,18 to 44 years,"Wait time, 6 months or more",10.3.2.4.4,20.9
+v1793301079,Alberta,2021A000248,Women+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,10.3.2.5.4,41.8
+v1793301086,Alberta,2021A000248,Women+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,10.3.2.6.4,39.0
+v1793301093,Alberta,2021A000248,Women+,18 to 44 years,Life affected by wait time,10.3.2.7.4,67.4
+v1793301100,Alberta,2021A000248,Women+,45 to 64 years,"Total, wait time - medical specialist",10.3.3.1.4,100.0
+v1793301107,Alberta,2021A000248,Women+,45 to 64 years,"Wait time, less than 3 months",10.3.3.2.4,53.2
+v1793301114,Alberta,2021A000248,Women+,45 to 64 years,"Wait time, 3 months to less than 6 months",10.3.3.3.4,19.6
+v1793301121,Alberta,2021A000248,Women+,45 to 64 years,"Wait time, 6 months or more",10.3.3.4.4,27.2
+v1793301128,Alberta,2021A000248,Women+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,10.3.3.5.4,39.3
+v1793301135,Alberta,2021A000248,Women+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,10.3.3.6.4,36.2
+v1793301142,Alberta,2021A000248,Women+,45 to 64 years,Life affected by wait time,10.3.3.7.4,71.8
+v1793301149,Alberta,2021A000248,Women+,65 years and over,"Total, wait time - medical specialist",10.3.4.1.4,100.0
+v1793301156,Alberta,2021A000248,Women+,65 years and over,"Wait time, less than 3 months",10.3.4.2.4,66.5
+v1793301163,Alberta,2021A000248,Women+,65 years and over,"Wait time, 3 months to less than 6 months",10.3.4.3.4,20.0
+v1793301170,Alberta,2021A000248,Women+,65 years and over,"Wait time, 6 months or more",10.3.4.4.4,13.5
+v1793301177,Alberta,2021A000248,Women+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,10.3.4.5.4,53.4
+v1793301184,Alberta,2021A000248,Women+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,10.3.4.6.4,23.9
+v1793301191,Alberta,2021A000248,Women+,65 years and over,Life affected by wait time,10.3.4.7.4,58.4
+v1793301198,British Columbia,2021A000259,Both genders,"Total, 18 years and over","Total, wait time - medical specialist",11.1.1.1.4,100.0
+v1793301205,British Columbia,2021A000259,Both genders,"Total, 18 years and over","Wait time, less than 3 months",11.1.1.2.4,62.1
+v1793301212,British Columbia,2021A000259,Both genders,"Total, 18 years and over","Wait time, 3 months to less than 6 months",11.1.1.3.4,19.1
+v1793301219,British Columbia,2021A000259,Both genders,"Total, 18 years and over","Wait time, 6 months or more",11.1.1.4.4,18.8
+v1793301226,British Columbia,2021A000259,Both genders,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,11.1.1.5.4,44.3
+v1793301233,British Columbia,2021A000259,Both genders,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,11.1.1.6.4,33.3
+v1793301240,British Columbia,2021A000259,Both genders,"Total, 18 years and over",Life affected by wait time,11.1.1.7.4,67.6
+v1793301247,British Columbia,2021A000259,Both genders,18 to 44 years,"Total, wait time - medical specialist",11.1.2.1.4,100.0
+v1793301254,British Columbia,2021A000259,Both genders,18 to 44 years,"Wait time, less than 3 months",11.1.2.2.4,61.5
+v1793301261,British Columbia,2021A000259,Both genders,18 to 44 years,"Wait time, 3 months to less than 6 months",11.1.2.3.4,18.2
+v1793301268,British Columbia,2021A000259,Both genders,18 to 44 years,"Wait time, 6 months or more",11.1.2.4.4,20.3
+v1793301275,British Columbia,2021A000259,Both genders,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,11.1.2.5.4,39.9
+v1793301282,British Columbia,2021A000259,Both genders,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,11.1.2.6.4,38.4
+v1793301289,British Columbia,2021A000259,Both genders,18 to 44 years,Life affected by wait time,11.1.2.7.4,70.2
+v1793301296,British Columbia,2021A000259,Both genders,45 to 64 years,"Total, wait time - medical specialist",11.1.3.1.4,100.0
+v1793301303,British Columbia,2021A000259,Both genders,45 to 64 years,"Wait time, less than 3 months",11.1.3.2.4,60.2
+v1793301310,British Columbia,2021A000259,Both genders,45 to 64 years,"Wait time, 3 months to less than 6 months",11.1.3.3.4,20.2
+v1793301317,British Columbia,2021A000259,Both genders,45 to 64 years,"Wait time, 6 months or more",11.1.3.4.4,19.6
+v1793301324,British Columbia,2021A000259,Both genders,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,11.1.3.5.4,43.0
+v1793301331,British Columbia,2021A000259,Both genders,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,11.1.3.6.4,32.8
+v1793301338,British Columbia,2021A000259,Both genders,45 to 64 years,Life affected by wait time,11.1.3.7.4,68.5
+v1793301345,British Columbia,2021A000259,Both genders,65 years and over,"Total, wait time - medical specialist",11.1.4.1.4,100.0
+v1793301352,British Columbia,2021A000259,Both genders,65 years and over,"Wait time, less than 3 months",11.1.4.2.4,64.7
+v1793301359,British Columbia,2021A000259,Both genders,65 years and over,"Wait time, 3 months to less than 6 months",11.1.4.3.4,19.3
+v1793301366,British Columbia,2021A000259,Both genders,65 years and over,"Wait time, 6 months or more",11.1.4.4.4,16.0
+v1793301373,British Columbia,2021A000259,Both genders,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,11.1.4.5.4,51.7
+v1793301380,British Columbia,2021A000259,Both genders,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,11.1.4.6.4,26.8
+v1793301387,British Columbia,2021A000259,Both genders,65 years and over,Life affected by wait time,11.1.4.7.4,63.1
+v1793301394,British Columbia,2021A000259,Men+,"Total, 18 years and over","Total, wait time - medical specialist",11.2.1.1.4,100.0
+v1793301401,British Columbia,2021A000259,Men+,"Total, 18 years and over","Wait time, less than 3 months",11.2.1.2.4,68.0
+v1793301408,British Columbia,2021A000259,Men+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",11.2.1.3.4,17.0
+v1793301415,British Columbia,2021A000259,Men+,"Total, 18 years and over","Wait time, 6 months or more",11.2.1.4.4,15.1
+v1793301422,British Columbia,2021A000259,Men+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,11.2.1.5.4,42.8
+v1793301429,British Columbia,2021A000259,Men+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,11.2.1.6.4,32.9
+v1793301436,British Columbia,2021A000259,Men+,"Total, 18 years and over",Life affected by wait time,11.2.1.7.4,67.2
+v1793301443,British Columbia,2021A000259,Men+,18 to 44 years,"Total, wait time - medical specialist",11.2.2.1.4,100.0
+v1793301450,British Columbia,2021A000259,Men+,18 to 44 years,"Wait time, less than 3 months",11.2.2.2.4,70.2
+v1793301457,British Columbia,2021A000259,Men+,18 to 44 years,"Wait time, 3 months to less than 6 months",11.2.2.3.4,15.2
+v1793301464,British Columbia,2021A000259,Men+,18 to 44 years,"Wait time, 6 months or more",11.2.2.4.4,14.6
+v1793301471,British Columbia,2021A000259,Men+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,11.2.2.5.4,33.6
+v1793301478,British Columbia,2021A000259,Men+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,11.2.2.6.4,39.8
+v1793301485,British Columbia,2021A000259,Men+,18 to 44 years,Life affected by wait time,11.2.2.7.4,73.3
+v1793301492,British Columbia,2021A000259,Men+,45 to 64 years,"Total, wait time - medical specialist",11.2.3.1.4,100.0
+v1793301499,British Columbia,2021A000259,Men+,45 to 64 years,"Wait time, less than 3 months",11.2.3.2.4,67.7
+v1793301506,British Columbia,2021A000259,Men+,45 to 64 years,"Wait time, 3 months to less than 6 months",11.2.3.3.4,16.8
+v1793301513,British Columbia,2021A000259,Men+,45 to 64 years,"Wait time, 6 months or more",11.2.3.4.4,15.6
+v1793301520,British Columbia,2021A000259,Men+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,11.2.3.5.4,43.6
+v1793301527,British Columbia,2021A000259,Men+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,11.2.3.6.4,30.1
+v1793301534,British Columbia,2021A000259,Men+,45 to 64 years,Life affected by wait time,11.2.3.7.4,64.7
+v1793301541,British Columbia,2021A000259,Men+,65 years and over,"Total, wait time - medical specialist",11.2.4.1.4,100.0
+v1793301548,British Columbia,2021A000259,Men+,65 years and over,"Wait time, less than 3 months",11.2.4.2.4,65.8
+v1793301555,British Columbia,2021A000259,Men+,65 years and over,"Wait time, 3 months to less than 6 months",11.2.4.3.4,19.2
+v1793301562,British Columbia,2021A000259,Men+,65 years and over,"Wait time, 6 months or more",11.2.4.4.4,15.1
+v1793301569,British Columbia,2021A000259,Men+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,11.2.4.5.4,52.3
+v1793301576,British Columbia,2021A000259,Men+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,11.2.4.6.4,27.9
+v1793301583,British Columbia,2021A000259,Men+,65 years and over,Life affected by wait time,11.2.4.7.4,63.0
+v1793301590,British Columbia,2021A000259,Women+,"Total, 18 years and over","Total, wait time - medical specialist",11.3.1.1.4,100.0
+v1793301597,British Columbia,2021A000259,Women+,"Total, 18 years and over","Wait time, less than 3 months",11.3.1.2.4,57.4
+v1793301604,British Columbia,2021A000259,Women+,"Total, 18 years and over","Wait time, 3 months to less than 6 months",11.3.1.3.4,20.9
+v1793301611,British Columbia,2021A000259,Women+,"Total, 18 years and over","Wait time, 6 months or more",11.3.1.4.4,21.8
+v1793301618,British Columbia,2021A000259,Women+,"Total, 18 years and over",Satisfaction with wait time - Very satisfied or satisfied,11.3.1.5.4,45.5
+v1793301625,British Columbia,2021A000259,Women+,"Total, 18 years and over",Satisfaction with wait time - Dissatisfied or very dissatisfied,11.3.1.6.4,33.6
+v1793301632,British Columbia,2021A000259,Women+,"Total, 18 years and over",Life affected by wait time,11.3.1.7.4,67.9
+v1793301639,British Columbia,2021A000259,Women+,18 to 44 years,"Total, wait time - medical specialist",11.3.2.1.4,100.0
+v1793301646,British Columbia,2021A000259,Women+,18 to 44 years,"Wait time, less than 3 months",11.3.2.2.4,56.0
+v1793301653,British Columbia,2021A000259,Women+,18 to 44 years,"Wait time, 3 months to less than 6 months",11.3.2.3.4,20.2
+v1793301660,British Columbia,2021A000259,Women+,18 to 44 years,"Wait time, 6 months or more",11.3.2.4.4,23.9
+v1793301667,British Columbia,2021A000259,Women+,18 to 44 years,Satisfaction with wait time - Very satisfied or satisfied,11.3.2.5.4,44.0
+v1793301674,British Columbia,2021A000259,Women+,18 to 44 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,11.3.2.6.4,37.5
+v1793301681,British Columbia,2021A000259,Women+,18 to 44 years,Life affected by wait time,11.3.2.7.4,68.3
+v1793301688,British Columbia,2021A000259,Women+,45 to 64 years,"Total, wait time - medical specialist",11.3.3.1.4,100.0
+v1793301695,British Columbia,2021A000259,Women+,45 to 64 years,"Wait time, less than 3 months",11.3.3.2.4,52.9
+v1793301702,British Columbia,2021A000259,Women+,45 to 64 years,"Wait time, 3 months to less than 6 months",11.3.3.3.4,23.6
+v1793301709,British Columbia,2021A000259,Women+,45 to 64 years,"Wait time, 6 months or more",11.3.3.4.4,23.5
+v1793301716,British Columbia,2021A000259,Women+,45 to 64 years,Satisfaction with wait time - Very satisfied or satisfied,11.3.3.5.4,42.3
+v1793301723,British Columbia,2021A000259,Women+,45 to 64 years,Satisfaction with wait time - Dissatisfied or very dissatisfied,11.3.3.6.4,35.4
+v1793301730,British Columbia,2021A000259,Women+,45 to 64 years,Life affected by wait time,11.3.3.7.4,72.2
+v1793301737,British Columbia,2021A000259,Women+,65 years and over,"Total, wait time - medical specialist",11.3.4.1.4,100.0
+v1793301744,British Columbia,2021A000259,Women+,65 years and over,"Wait time, less than 3 months",11.3.4.2.4,63.8
+v1793301751,British Columbia,2021A000259,Women+,65 years and over,"Wait time, 3 months to less than 6 months",11.3.4.3.4,19.4
+v1793301758,British Columbia,2021A000259,Women+,65 years and over,"Wait time, 6 months or more",11.3.4.4.4,16.8
+v1793301765,British Columbia,2021A000259,Women+,65 years and over,Satisfaction with wait time - Very satisfied or satisfied,11.3.4.5.4,51.2
+v1793301772,British Columbia,2021A000259,Women+,65 years and over,Satisfaction with wait time - Dissatisfied or very dissatisfied,11.3.4.6.4,25.7
+v1793301779,British Columbia,2021A000259,Women+,65 years and over,Life affected by wait time,11.3.4.7.4,63.2
