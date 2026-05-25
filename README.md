@@ -1,4 +1,4 @@
-# HEALTHCARE ACCESS AND PATIENT EXPERIENCE IN CANADA, 2024
+# HEALTHCARE ACCESS AND PATIENT EXPERIENCE IN CANADA, 2024 
 
 ## Project 
 In this project, exploratory data analysis was performed using data collected from two surveys performed in 2024 about healthcare access and wait times for initial medical specialist consultations across Canada and summarized in an interactive Tableau story.  
@@ -39,4 +39,3 @@ satisfied with the wait period and 7 in 10 participants reported receiving very 
 
 ### Wait time and Specialist Consultation Quality Dashboard
 ![Wait Times and Quality](sample_images/wait_times.png)
-
